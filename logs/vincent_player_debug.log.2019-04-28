@@ -1,0 +1,434 @@
+2019-04-28 21:32:40  [ main:0 ] - [ INFO ]  times : 0, spend time is : 28s368ms
+2019-04-28 21:33:42  [ main:0 ] - [ INFO ]  times : 0, spend time is : 48s385ms
+2019-04-28 21:37:55  [ main:0 ] - [ INFO ]  times : 0, spend time is : 7s116ms
+2019-04-28 21:38:02  [ main:7087 ] - [ INFO ]  times : 0, spend time is : 14s203ms
+2019-04-28 21:38:09  [ main:14170 ] - [ INFO ]  times : 0, spend time is : 21s286ms
+2019-04-28 21:38:16  [ main:21267 ] - [ INFO ]  times : 0, spend time is : 28s383ms
+2019-04-28 21:38:23  [ main:28409 ] - [ INFO ]  times : 0, spend time is : 35s525ms
+2019-04-28 21:38:30  [ main:35493 ] - [ INFO ]  times : 0, spend time is : 42s609ms
+2019-04-28 21:43:11  [ main:0 ] - [ INFO ]  times : 0, spend time is : 10s137ms
+2019-04-28 21:43:30  [ main:18878 ] - [ INFO ]  times : 0, spend time is : 27s785ms
+2019-04-28 21:45:56  [ main:165183 ] - [ INFO ]  times : 0, spend time is : 46s666ms
+2019-04-28 21:46:06  [ main:0 ] - [ INFO ]  times is : 0 。进入鼓~
+2019-04-28 21:46:22  [ main:0 ] - [ INFO ]  times is : 0 。进入鼓~
+2019-04-28 21:46:24  [ main:2543 ] - [ INFO ]  times is : 0 。打鼓~
+2019-04-28 21:46:27  [ main:5087 ] - [ INFO ]  times is : 0 。退出打鼓~
+2019-04-28 21:46:29  [ main:7633 ] - [ INFO ]  times is : 0 。移动至下一个~
+2019-04-28 21:46:33  [ main:11154 ] - [ INFO ]  times : 0, spend time is : 11s155ms
+2019-04-28 21:46:33  [ main:11154 ] - [ INFO ]  times is : 1 。进入鼓~
+2019-04-28 21:46:35  [ main:13673 ] - [ INFO ]  times is : 1 。打鼓~
+2019-04-28 21:46:38  [ main:16231 ] - [ INFO ]  times is : 1 。退出打鼓~
+2019-04-28 21:46:40  [ main:18779 ] - [ INFO ]  times is : 1 。移动至下一个~
+2019-04-28 21:46:44  [ main:22304 ] - [ INFO ]  times : 1, spend time is : 22s305ms
+2019-04-28 21:46:44  [ main:22304 ] - [ INFO ]  times is : 2 。进入鼓~
+2019-04-28 21:46:46  [ main:24826 ] - [ INFO ]  times is : 2 。打鼓~
+2019-04-28 21:46:49  [ main:27370 ] - [ INFO ]  times is : 2 。退出打鼓~
+2019-04-28 21:46:51  [ main:29915 ] - [ INFO ]  times is : 2 。移动至下一个~
+2019-04-28 21:46:55  [ main:33437 ] - [ INFO ]  times : 2, spend time is : 33s438ms
+2019-04-28 21:46:55  [ main:33437 ] - [ INFO ]  times is : 3 。进入鼓~
+2019-04-28 21:46:57  [ main:35964 ] - [ INFO ]  times is : 3 。打鼓~
+2019-04-28 21:47:00  [ main:38511 ] - [ INFO ]  times is : 3 。退出打鼓~
+2019-04-28 21:47:03  [ main:41065 ] - [ INFO ]  times is : 3 。移动至下一个~
+2019-04-28 21:47:06  [ main:44584 ] - [ INFO ]  times : 3, spend time is : 44s585ms
+2019-04-28 21:47:06  [ main:44584 ] - [ INFO ]  times is : 4 。进入鼓~
+2019-04-28 21:47:09  [ main:47105 ] - [ INFO ]  times is : 4 。打鼓~
+2019-04-28 21:47:11  [ main:49658 ] - [ INFO ]  times is : 4 。退出打鼓~
+2019-04-28 21:47:14  [ main:52203 ] - [ INFO ]  times is : 4 。移动至下一个~
+2019-04-28 21:47:17  [ main:55724 ] - [ INFO ]  times : 4, spend time is : 55s725ms
+2019-04-28 21:47:17  [ main:55724 ] - [ INFO ]  times is : 5 。进入鼓~
+2019-04-28 21:47:20  [ main:58283 ] - [ INFO ]  times is : 5 。打鼓~
+2019-04-28 21:47:22  [ main:60828 ] - [ INFO ]  times is : 5 。退出打鼓~
+2019-04-28 21:47:25  [ main:63378 ] - [ INFO ]  times is : 5 。移动至下一个~
+2019-04-28 21:47:28  [ main:66898 ] - [ INFO ]  times : 5, spend time is : 66s899ms
+2019-04-28 21:47:28  [ main:66898 ] - [ INFO ]  times is : 6 。进入鼓~
+2019-04-28 21:47:31  [ main:69418 ] - [ INFO ]  times is : 6 。打鼓~
+2019-04-28 21:47:33  [ main:71962 ] - [ INFO ]  times is : 6 。退出打鼓~
+2019-04-28 21:47:36  [ main:74507 ] - [ INFO ]  times is : 6 。移动至下一个~
+2019-04-28 21:47:40  [ main:78028 ] - [ INFO ]  times : 6, spend time is : 78s29ms
+2019-04-28 21:47:40  [ main:78028 ] - [ INFO ]  times is : 7 。进入鼓~
+2019-04-28 21:47:42  [ main:80548 ] - [ INFO ]  times is : 7 。打鼓~
+2019-04-28 21:47:45  [ main:83093 ] - [ INFO ]  times is : 7 。退出打鼓~
+2019-04-28 21:47:47  [ main:85636 ] - [ INFO ]  times is : 7 。移动至下一个~
+2019-04-28 21:47:51  [ main:89157 ] - [ INFO ]  times : 7, spend time is : 89s158ms
+2019-04-28 21:47:51  [ main:89158 ] - [ INFO ]  times is : 8 。进入鼓~
+2019-04-28 21:47:53  [ main:91679 ] - [ INFO ]  times is : 8 。打鼓~
+2019-04-28 21:47:56  [ main:94223 ] - [ INFO ]  times is : 8 。退出打鼓~
+2019-04-28 21:47:58  [ main:96768 ] - [ INFO ]  times is : 8 。移动至下一个~
+2019-04-28 21:48:02  [ main:100288 ] - [ INFO ]  times : 8, spend time is : 100s289ms
+2019-04-28 21:48:02  [ main:100288 ] - [ INFO ]  times is : 9 。进入鼓~
+2019-04-28 21:48:04  [ main:102808 ] - [ INFO ]  times is : 9 。打鼓~
+2019-04-28 21:48:07  [ main:105362 ] - [ INFO ]  times is : 9 。退出打鼓~
+2019-04-28 21:48:09  [ main:107907 ] - [ INFO ]  times is : 9 。移动至下一个~
+2019-04-28 21:48:22  [ main:0 ] - [ INFO ]  times is : 0 。进入鼓~
+2019-04-28 21:48:25  [ main:2547 ] - [ INFO ]  times is : 0 。打鼓~
+2019-04-28 21:48:27  [ main:5092 ] - [ INFO ]  times is : 0 。退出打鼓~
+2019-04-28 21:48:54  [ main:0 ] - [ INFO ]  times is : 0 。进入鼓~
+2019-04-28 21:48:56  [ main:2550 ] - [ INFO ]  times is : 0 。打鼓~
+2019-04-28 21:48:59  [ main:5090 ] - [ INFO ]  times is : 0 。退出打鼓~
+2019-04-28 21:49:01  [ main:7631 ] - [ INFO ]  times is : 0 。移动至下一个~
+2019-04-28 21:49:05  [ main:11651 ] - [ INFO ]  times : 0, spend time is : 11s651ms
+2019-04-28 21:49:05  [ main:11652 ] - [ INFO ]  times is : 1 。进入鼓~
+2019-04-28 21:49:08  [ main:14174 ] - [ INFO ]  times is : 1 。打鼓~
+2019-04-28 21:49:10  [ main:16717 ] - [ INFO ]  times is : 1 。退出打鼓~
+2019-04-28 21:49:13  [ main:19264 ] - [ INFO ]  times is : 1 。移动至下一个~
+2019-04-28 21:49:17  [ main:23284 ] - [ INFO ]  times : 1, spend time is : 23s284ms
+2019-04-28 21:49:17  [ main:23284 ] - [ INFO ]  times is : 2 。进入鼓~
+2019-04-28 21:49:19  [ main:25805 ] - [ INFO ]  times is : 2 。打鼓~
+2019-04-28 21:49:22  [ main:28351 ] - [ INFO ]  times is : 2 。退出打鼓~
+2019-04-28 21:49:25  [ main:30893 ] - [ INFO ]  times is : 2 。移动至下一个~
+2019-04-28 21:49:29  [ main:34914 ] - [ INFO ]  times : 2, spend time is : 34s914ms
+2019-04-28 21:49:29  [ main:34914 ] - [ INFO ]  times is : 3 。进入鼓~
+2019-04-28 21:49:31  [ main:37435 ] - [ INFO ]  times is : 3 。打鼓~
+2019-04-28 21:49:34  [ main:39976 ] - [ INFO ]  times is : 3 。退出打鼓~
+2019-04-28 21:49:36  [ main:42517 ] - [ INFO ]  times is : 3 。移动至下一个~
+2019-04-28 21:49:40  [ main:46538 ] - [ INFO ]  times : 3, spend time is : 46s538ms
+2019-04-28 21:49:40  [ main:46539 ] - [ INFO ]  times is : 4 。进入鼓~
+2019-04-28 21:53:07  [ main:0 ] - [ INFO ]  times is : 0 。进入鼓~
+2019-04-28 21:53:07  [ main:0 ] - [ INFO ]  times is : 0 。进入鼓~
+2019-04-28 21:53:07  [ main:0 ] - [ INFO ]  times is : 0 。进入鼓~
+2019-04-28 21:53:33  [ main:0 ] - [ INFO ]  times is : 0 。进入鼓~
+2019-04-28 21:53:35  [ main:0 ] - [ INFO ]  times is : 0 。进入鼓~
+2019-04-28 21:53:37  [ main:0 ] - [ INFO ]  times is : 0 。进入鼓~
+2019-04-28 21:53:37  [ main:2532 ] - [ INFO ]  times is : 0 。打鼓~
+2019-04-28 21:53:39  [ main:2528 ] - [ INFO ]  times is : 0 。打鼓~
+2019-04-28 21:53:40  [ main:5071 ] - [ INFO ]  times is : 0 。退出打鼓~
+2019-04-28 21:53:42  [ main:5074 ] - [ INFO ]  times is : 0 。退出打鼓~
+2019-04-28 21:53:42  [ main:7611 ] - [ INFO ]  times is : 0 。移动至下一个~
+2019-04-28 21:53:44  [ main:7614 ] - [ INFO ]  times is : 0 。移动至下一个~
+2019-04-28 21:53:46  [ main:11611 ] - [ INFO ]  times : 0, spend time is : 11s639ms
+2019-04-28 21:53:48  [ main:13042 ] - [ INFO ]  times is : 1 。进入鼓~
+2019-04-28 21:54:20  [ main:0 ] - [ INFO ]  times is : 0 。进入鼓~
+2019-04-28 21:55:15  [ main:0 ] - [ INFO ]  times is : 0 。进入鼓~
+2019-04-28 21:55:25  [ main:0 ] - [ INFO ]  times is : 0 。进入鼓~
+2019-04-28 21:56:36  [ main:0 ] - [ INFO ]  times is : 0 。进入鼓~
+2019-04-28 21:56:39  [ main:2540 ] - [ INFO ]  times is : 0 。打鼓~
+2019-04-28 21:56:41  [ main:5083 ] - [ INFO ]  times is : 0 。退出打鼓~
+2019-04-28 21:56:44  [ main:7623 ] - [ INFO ]  times is : 0 。移动至下一个~
+2019-04-28 21:56:44  [ main:0 ] - [ INFO ]  times is : 0 。进入鼓~
+2019-04-28 21:57:18  [ main:0 ] - [ INFO ]  times is : 0 。进入鼓~
+2019-04-28 21:57:51  [ main:0 ] - [ INFO ]  times is : 0 。进入鼓~
+2019-04-28 21:58:42  [ main:0 ] - [ INFO ]  times is : 0 。进入鼓~
+2019-04-28 21:59:17  [ main:0 ] - [ INFO ]  times is : 0 。进入鼓~
+2019-04-28 21:59:17  [ main:0 ] - [ INFO ]  times is : 0 。进入鼓~
+2019-04-28 21:59:30  [ main:0 ] - [ INFO ]  times is : 0 。进入鼓~
+2019-04-28 22:01:29  [ main:0 ] - [ INFO ]  times is : 0 。进入鼓~
+2019-04-28 22:01:32  [ main:2579 ] - [ INFO ]  times is : 0 。打鼓~
+2019-04-28 22:01:34  [ main:5121 ] - [ INFO ]  times is : 0 。退出打鼓~
+2019-04-28 22:01:37  [ main:7664 ] - [ INFO ]  times is : 0 。移动至下一个~
+2019-04-28 22:01:41  [ main:11665 ] - [ INFO ]  times : 0, spend time is : 11s665ms
+2019-04-28 22:01:41  [ main:11666 ] - [ INFO ]  times is : 1 。进入鼓~
+2019-04-28 22:01:43  [ main:14237 ] - [ INFO ]  times is : 1 。打鼓~
+2019-04-28 22:01:46  [ main:16777 ] - [ INFO ]  times is : 1 。退出打鼓~
+2019-04-28 22:01:48  [ main:19320 ] - [ INFO ]  times is : 1 。移动至下一个~
+2019-04-28 22:01:52  [ main:23320 ] - [ INFO ]  times : 1, spend time is : 23s320ms
+2019-04-28 22:01:52  [ main:23320 ] - [ INFO ]  times is : 2 。进入鼓~
+2019-04-28 22:01:55  [ main:25888 ] - [ INFO ]  times is : 2 。打鼓~
+2019-04-28 22:01:58  [ main:28426 ] - [ INFO ]  times is : 2 。退出打鼓~
+2019-04-28 22:02:00  [ main:30968 ] - [ INFO ]  times is : 2 。移动至下一个~
+2019-04-28 22:02:04  [ main:34968 ] - [ INFO ]  times : 2, spend time is : 34s968ms
+2019-04-28 22:02:04  [ main:34968 ] - [ INFO ]  times is : 3 。进入鼓~
+2019-04-28 22:02:07  [ main:37539 ] - [ INFO ]  times is : 3 。打鼓~
+2019-04-28 22:02:09  [ main:40079 ] - [ INFO ]  times is : 3 。退出打鼓~
+2019-04-28 22:02:12  [ main:42623 ] - [ INFO ]  times is : 3 。移动至下一个~
+2019-04-28 22:02:16  [ main:46624 ] - [ INFO ]  times : 3, spend time is : 46s624ms
+2019-04-28 22:02:16  [ main:46624 ] - [ INFO ]  times is : 4 。进入鼓~
+2019-04-28 22:02:18  [ main:49191 ] - [ INFO ]  times is : 4 。打鼓~
+2019-04-28 22:02:21  [ main:51733 ] - [ INFO ]  times is : 4 。退出打鼓~
+2019-04-28 22:02:23  [ main:54287 ] - [ INFO ]  times is : 4 。移动至下一个~
+2019-04-28 22:02:27  [ main:58288 ] - [ INFO ]  times : 4, spend time is : 58s288ms
+2019-04-28 22:02:27  [ main:58288 ] - [ INFO ]  times is : 5 。进入鼓~
+2019-04-28 22:02:30  [ main:60856 ] - [ INFO ]  times is : 5 。打鼓~
+2019-04-28 22:02:32  [ main:63396 ] - [ INFO ]  times is : 5 。退出打鼓~
+2019-04-28 22:02:35  [ main:65938 ] - [ INFO ]  times is : 5 。移动至下一个~
+2019-04-28 22:02:39  [ main:69938 ] - [ INFO ]  times : 5, spend time is : 69s938ms
+2019-04-28 22:02:39  [ main:69938 ] - [ INFO ]  times is : 6 。进入鼓~
+2019-04-28 22:02:42  [ main:72506 ] - [ INFO ]  times is : 6 。打鼓~
+2019-04-28 22:02:44  [ main:75047 ] - [ INFO ]  times is : 6 。退出打鼓~
+2019-04-28 22:02:47  [ main:77592 ] - [ INFO ]  times is : 6 。移动至下一个~
+2019-04-28 22:02:51  [ main:81592 ] - [ INFO ]  times : 6, spend time is : 81s592ms
+2019-04-28 22:02:51  [ main:81592 ] - [ INFO ]  times is : 7 。进入鼓~
+2019-04-28 22:02:53  [ main:84166 ] - [ INFO ]  times is : 7 。打鼓~
+2019-04-28 22:02:56  [ main:86708 ] - [ INFO ]  times is : 7 。退出打鼓~
+2019-04-28 22:02:58  [ main:89247 ] - [ INFO ]  times is : 7 。移动至下一个~
+2019-04-28 22:03:02  [ main:93247 ] - [ INFO ]  times : 7, spend time is : 93s247ms
+2019-04-28 22:03:02  [ main:93247 ] - [ INFO ]  times is : 8 。进入鼓~
+2019-04-28 22:03:05  [ main:95817 ] - [ INFO ]  times is : 8 。打鼓~
+2019-04-28 22:04:04  [ main:0 ] - [ INFO ]  times is : 0 。进入鼓~
+2019-04-28 22:04:07  [ main:2573 ] - [ INFO ]  times is : 0 。打鼓~
+2019-04-28 22:04:09  [ main:5094 ] - [ INFO ]  times is : 0 。退出打鼓~
+2019-04-28 22:04:12  [ main:7616 ] - [ INFO ]  times is : 0 。移动至下一个~
+2019-04-28 22:04:16  [ main:11616 ] - [ INFO ]  times : 0, spend time is : 11s616ms
+2019-04-28 22:04:16  [ main:11616 ] - [ INFO ]  times is : 1 。进入鼓~
+2019-04-28 22:04:19  [ main:14181 ] - [ INFO ]  times is : 1 。打鼓~
+2019-04-28 22:04:21  [ main:16701 ] - [ INFO ]  times is : 1 。退出打鼓~
+2019-04-28 22:04:24  [ main:19226 ] - [ INFO ]  times is : 1 。移动至下一个~
+2019-04-28 22:04:28  [ main:23227 ] - [ INFO ]  times : 1, spend time is : 23s227ms
+2019-04-28 22:04:28  [ main:23227 ] - [ INFO ]  times is : 2 。进入鼓~
+2019-04-28 22:04:30  [ main:25798 ] - [ INFO ]  times is : 2 。打鼓~
+2019-04-28 22:04:33  [ main:28320 ] - [ INFO ]  times is : 2 。退出打鼓~
+2019-04-28 22:04:35  [ main:30841 ] - [ INFO ]  times is : 2 。移动至下一个~
+2019-04-28 22:04:39  [ main:34843 ] - [ INFO ]  times : 2, spend time is : 34s843ms
+2019-04-28 22:04:39  [ main:34844 ] - [ INFO ]  times is : 3 。进入鼓~
+2019-04-28 22:04:42  [ main:37417 ] - [ INFO ]  times is : 3 。打鼓~
+2019-04-28 22:04:44  [ main:39938 ] - [ INFO ]  times is : 3 。退出打鼓~
+2019-04-28 22:04:47  [ main:42458 ] - [ INFO ]  times is : 3 。移动至下一个~
+2019-04-28 22:04:51  [ main:46458 ] - [ INFO ]  times : 3, spend time is : 46s458ms
+2019-04-28 22:04:51  [ main:46458 ] - [ INFO ]  times is : 4 。进入鼓~
+2019-04-28 22:04:53  [ main:49025 ] - [ INFO ]  times is : 4 。打鼓~
+2019-04-28 22:04:56  [ main:51545 ] - [ INFO ]  times is : 4 。退出打鼓~
+2019-04-28 22:04:58  [ main:54068 ] - [ INFO ]  times is : 4 。移动至下一个~
+2019-04-28 22:05:02  [ main:58068 ] - [ INFO ]  times : 4, spend time is : 58s68ms
+2019-04-28 22:05:02  [ main:58068 ] - [ INFO ]  times is : 5 。进入鼓~
+2019-04-28 22:05:05  [ main:60638 ] - [ INFO ]  times is : 5 。打鼓~
+2019-04-28 22:05:07  [ main:63158 ] - [ INFO ]  times is : 5 。退出打鼓~
+2019-04-28 22:08:19  [ main:0 ] - [ INFO ]  times is : 0 。进入鼓~
+2019-04-28 22:08:22  [ main:2600 ] - [ INFO ]  times is : 0 。打鼓~
+2019-04-28 22:08:25  [ main:5121 ] - [ INFO ]  times is : 0 。退出打鼓~
+2019-04-28 22:08:27  [ main:7641 ] - [ INFO ]  times is : 0 。移动至下一个~
+2019-04-28 22:08:31  [ main:11641 ] - [ INFO ]  times : 0, spend time is : 11s642ms
+2019-04-28 22:08:31  [ main:11641 ] - [ INFO ]  times is : 1 。进入鼓~
+2019-04-28 22:08:34  [ main:14201 ] - [ INFO ]  times is : 1 。打鼓~
+2019-04-28 22:08:36  [ main:16722 ] - [ INFO ]  times is : 1 。退出打鼓~
+2019-04-28 22:08:39  [ main:19247 ] - [ INFO ]  times is : 1 。移动至下一个~
+2019-04-28 22:08:43  [ main:23248 ] - [ INFO ]  times : 1, spend time is : 23s249ms
+2019-04-28 22:08:43  [ main:23248 ] - [ INFO ]  times is : 2 。进入鼓~
+2019-04-28 22:09:52  [ main:0 ] - [ INFO ]  times is : 0 。进入鼓~
+2019-04-28 22:09:55  [ main:2591 ] - [ INFO ]  times is : 0 。打鼓~
+2019-04-28 22:09:58  [ main:5111 ] - [ INFO ]  times is : 0 。退出打鼓~
+2019-04-28 22:10:00  [ main:7632 ] - [ INFO ]  times is : 0 。移动至下一个~
+2019-04-28 22:10:04  [ main:11632 ] - [ INFO ]  times : 0, spend time is : 11s632ms
+2019-04-28 22:10:14  [ main:21981 ] - [ INFO ]  times is : 1 。进入鼓~
+2019-04-28 22:10:17  [ main:24548 ] - [ INFO ]  times is : 1 。打鼓~
+2019-04-28 22:10:20  [ main:27070 ] - [ INFO ]  times is : 1 。退出打鼓~
+2019-04-28 22:10:22  [ main:29592 ] - [ INFO ]  times is : 1 。移动至下一个~
+2019-04-28 22:10:26  [ main:33593 ] - [ INFO ]  times : 1, spend time is : 33s593ms
+2019-04-28 22:10:26  [ main:33593 ] - [ INFO ]  times is : 2 。进入鼓~
+2019-04-28 22:10:29  [ main:36154 ] - [ INFO ]  times is : 2 。打鼓~
+2019-04-28 22:10:31  [ main:38674 ] - [ INFO ]  times is : 2 。退出打鼓~
+2019-04-28 22:10:34  [ main:41195 ] - [ INFO ]  times is : 2 。移动至下一个~
+2019-04-28 22:10:38  [ main:45195 ] - [ INFO ]  times : 2, spend time is : 45s195ms
+2019-04-28 22:10:38  [ main:45195 ] - [ INFO ]  times is : 3 。进入鼓~
+2019-04-28 22:10:40  [ main:47757 ] - [ INFO ]  times is : 3 。打鼓~
+2019-04-28 22:10:43  [ main:50281 ] - [ INFO ]  times is : 3 。退出打鼓~
+2019-04-28 22:10:45  [ main:52802 ] - [ INFO ]  times is : 3 。移动至下一个~
+2019-04-28 22:10:49  [ main:56803 ] - [ INFO ]  times : 3, spend time is : 56s803ms
+2019-04-28 22:10:49  [ main:56803 ] - [ INFO ]  times is : 4 。进入鼓~
+2019-04-28 22:10:52  [ main:59367 ] - [ INFO ]  times is : 4 。打鼓~
+2019-04-28 22:11:19  [ main:0 ] - [ INFO ]  times is : 0 。进入鼓~
+2019-04-28 22:11:21  [ main:2588 ] - [ INFO ]  times is : 0 。打鼓~
+2019-04-28 22:11:24  [ main:5110 ] - [ INFO ]  times is : 0 。退出打鼓~
+2019-04-28 22:11:26  [ main:7631 ] - [ INFO ]  times is : 0 。移动至下一个~
+2019-04-28 22:11:26  [ main:7631 ] - [ INFO ]  times : 0, spend time is : 7s632ms
+2019-04-28 22:11:26  [ main:7632 ] - [ INFO ]  times is : 1 。进入鼓~
+2019-04-28 22:11:29  [ main:10174 ] - [ INFO ]  times is : 1 。打鼓~
+2019-04-28 22:11:32  [ main:12696 ] - [ INFO ]  times is : 1 。退出打鼓~
+2019-04-28 22:11:34  [ main:15218 ] - [ INFO ]  times is : 1 。移动至下一个~
+2019-04-28 22:11:34  [ main:15218 ] - [ INFO ]  times : 1, spend time is : 15s219ms
+2019-04-28 22:11:34  [ main:15218 ] - [ INFO ]  times is : 2 。进入鼓~
+2019-04-28 22:11:37  [ main:17757 ] - [ INFO ]  times is : 2 。打鼓~
+2019-04-28 22:11:39  [ main:20278 ] - [ INFO ]  times is : 2 。退出打鼓~
+2019-04-28 22:11:42  [ main:22799 ] - [ INFO ]  times is : 2 。移动至下一个~
+2019-04-28 22:11:42  [ main:22799 ] - [ INFO ]  times : 2, spend time is : 22s800ms
+2019-04-28 22:11:42  [ main:22799 ] - [ INFO ]  times is : 3 。进入鼓~
+2019-04-28 22:11:44  [ main:25345 ] - [ INFO ]  times is : 3 。打鼓~
+2019-04-28 22:11:47  [ main:27869 ] - [ INFO ]  times is : 3 。退出打鼓~
+2019-04-28 22:11:49  [ main:30390 ] - [ INFO ]  times is : 3 。移动至下一个~
+2019-04-28 22:11:49  [ main:30390 ] - [ INFO ]  times : 3, spend time is : 30s391ms
+2019-04-28 22:11:49  [ main:30390 ] - [ INFO ]  times is : 4 。进入鼓~
+2019-04-28 22:11:52  [ main:32936 ] - [ INFO ]  times is : 4 。打鼓~
+2019-04-28 22:11:54  [ main:35457 ] - [ INFO ]  times is : 4 。退出打鼓~
+2019-04-28 22:11:57  [ main:37977 ] - [ INFO ]  times is : 4 。移动至下一个~
+2019-04-28 22:11:57  [ main:37977 ] - [ INFO ]  times : 4, spend time is : 37s978ms
+2019-04-28 22:11:57  [ main:37978 ] - [ INFO ]  times is : 5 。进入鼓~
+2019-04-28 22:11:59  [ main:40519 ] - [ INFO ]  times is : 5 。打鼓~
+2019-04-28 22:12:02  [ main:43040 ] - [ INFO ]  times is : 5 。退出打鼓~
+2019-04-28 22:12:04  [ main:45562 ] - [ INFO ]  times is : 5 。移动至下一个~
+2019-04-28 22:12:04  [ main:45562 ] - [ INFO ]  times : 5, spend time is : 45s563ms
+2019-04-28 22:12:04  [ main:45562 ] - [ INFO ]  times is : 6 。进入鼓~
+2019-04-28 22:12:07  [ main:48104 ] - [ INFO ]  times is : 6 。打鼓~
+2019-04-28 22:12:09  [ main:50627 ] - [ INFO ]  times is : 6 。退出打鼓~
+2019-04-28 22:12:12  [ main:53146 ] - [ INFO ]  times is : 6 。移动至下一个~
+2019-04-28 22:12:12  [ main:53147 ] - [ INFO ]  times : 6, spend time is : 53s147ms
+2019-04-28 22:12:12  [ main:53147 ] - [ INFO ]  times is : 7 。进入鼓~
+2019-04-28 22:12:15  [ main:55689 ] - [ INFO ]  times is : 7 。打鼓~
+2019-04-28 22:12:17  [ main:58211 ] - [ INFO ]  times is : 7 。退出打鼓~
+2019-04-28 22:12:20  [ main:60731 ] - [ INFO ]  times is : 7 。移动至下一个~
+2019-04-28 22:12:20  [ main:60731 ] - [ INFO ]  times : 7, spend time is : 60s732ms
+2019-04-28 22:12:20  [ main:60731 ] - [ INFO ]  times is : 8 。进入鼓~
+2019-04-28 22:12:22  [ main:63272 ] - [ INFO ]  times is : 8 。打鼓~
+2019-04-28 22:12:25  [ main:65792 ] - [ INFO ]  times is : 8 。退出打鼓~
+2019-04-28 22:12:27  [ main:68315 ] - [ INFO ]  times is : 8 。移动至下一个~
+2019-04-28 22:12:27  [ main:68315 ] - [ INFO ]  times : 8, spend time is : 68s316ms
+2019-04-28 22:12:27  [ main:68315 ] - [ INFO ]  times is : 9 。进入鼓~
+2019-04-28 22:13:04  [ main:0 ] - [ INFO ]  times is : 0 。进入鼓~
+2019-04-28 22:13:07  [ main:2546 ] - [ INFO ]  times is : 0 。打鼓~
+2019-04-28 22:13:09  [ main:5087 ] - [ INFO ]  times is : 0 。退出打鼓~
+2019-04-28 22:13:12  [ main:7608 ] - [ INFO ]  times is : 0 。移动至下一个~
+2019-04-28 22:13:12  [ main:7608 ] - [ INFO ]  times : 0, spend time is : 7s608ms
+2019-04-28 22:13:12  [ main:7609 ] - [ INFO ]  times is : 1 。进入鼓~
+2019-04-28 22:13:14  [ main:10128 ] - [ INFO ]  times is : 1 。打鼓~
+2019-04-28 22:13:17  [ main:12671 ] - [ INFO ]  times is : 1 。退出打鼓~
+2019-04-28 22:13:20  [ main:15195 ] - [ INFO ]  times is : 1 。移动至下一个~
+2019-04-28 22:13:20  [ main:15195 ] - [ INFO ]  times : 1, spend time is : 15s195ms
+2019-04-28 22:13:20  [ main:15195 ] - [ INFO ]  times is : 2 。进入鼓~
+2019-04-28 22:13:22  [ main:17716 ] - [ INFO ]  times is : 2 。打鼓~
+2019-04-28 22:13:25  [ main:20256 ] - [ INFO ]  times is : 2 。退出打鼓~
+2019-04-28 22:13:27  [ main:22777 ] - [ INFO ]  times is : 2 。移动至下一个~
+2019-04-28 22:13:27  [ main:22777 ] - [ INFO ]  times : 2, spend time is : 22s777ms
+2019-04-28 22:13:27  [ main:22777 ] - [ INFO ]  times is : 3 。进入鼓~
+2019-04-28 22:13:30  [ main:25300 ] - [ INFO ]  times is : 3 。打鼓~
+2019-04-28 22:13:32  [ main:27842 ] - [ INFO ]  times is : 3 。退出打鼓~
+2019-04-28 22:13:35  [ main:30362 ] - [ INFO ]  times is : 3 。移动至下一个~
+2019-04-28 22:13:35  [ main:30362 ] - [ INFO ]  times : 3, spend time is : 30s362ms
+2019-04-28 22:13:35  [ main:30362 ] - [ INFO ]  times is : 4 。进入鼓~
+2019-04-28 22:56:07  [ main:0 ] - [ INFO ]  times is : 0 。进入鼓~
+2019-04-28 22:56:09  [ main:2569 ] - [ INFO ]  times is : 0 。打鼓~
+2019-04-28 22:56:12  [ main:5109 ] - [ INFO ]  times is : 0 。退出打鼓~
+2019-04-28 22:56:14  [ main:7629 ] - [ INFO ]  times is : 0 。移动至下一个~
+2019-04-28 22:56:14  [ main:7629 ] - [ INFO ]  times : 0, spend time is : 7s630ms
+2019-04-28 22:56:14  [ main:7630 ] - [ INFO ]  times is : 1 。进入鼓~
+2019-04-28 22:56:17  [ main:10151 ] - [ INFO ]  times is : 1 。打鼓~
+2019-04-28 22:56:20  [ main:12691 ] - [ INFO ]  times is : 1 。退出打鼓~
+2019-04-28 22:56:22  [ main:15215 ] - [ INFO ]  times is : 1 。移动至下一个~
+2019-04-28 22:56:22  [ main:15215 ] - [ INFO ]  times : 1, spend time is : 15s216ms
+2019-04-28 22:56:22  [ main:15215 ] - [ INFO ]  times is : 2 。进入鼓~
+2019-04-28 22:56:25  [ main:17735 ] - [ INFO ]  times is : 2 。打鼓~
+2019-04-28 22:56:27  [ main:20284 ] - [ INFO ]  times is : 2 。退出打鼓~
+2019-04-28 22:56:30  [ main:22804 ] - [ INFO ]  times is : 2 。移动至下一个~
+2019-04-28 22:56:30  [ main:22804 ] - [ INFO ]  times : 2, spend time is : 22s805ms
+2019-04-28 22:56:30  [ main:22805 ] - [ INFO ]  times is : 3 。进入鼓~
+2019-04-28 22:56:32  [ main:25327 ] - [ INFO ]  times is : 3 。打鼓~
+2019-04-28 22:56:35  [ main:27870 ] - [ INFO ]  times is : 3 。退出打鼓~
+2019-04-28 22:56:37  [ main:30391 ] - [ INFO ]  times is : 3 。移动至下一个~
+2019-04-28 22:56:37  [ main:30391 ] - [ INFO ]  times : 3, spend time is : 30s392ms
+2019-04-28 22:56:37  [ main:30391 ] - [ INFO ]  times is : 4 。进入鼓~
+2019-04-28 22:56:40  [ main:32912 ] - [ INFO ]  times is : 4 。打鼓~
+2019-04-28 22:56:42  [ main:35452 ] - [ INFO ]  times is : 4 。退出打鼓~
+2019-04-28 22:56:45  [ main:37973 ] - [ INFO ]  times is : 4 。移动至下一个~
+2019-04-28 22:56:45  [ main:37973 ] - [ INFO ]  times : 4, spend time is : 37s974ms
+2019-04-28 22:56:45  [ main:37973 ] - [ INFO ]  times is : 5 。进入鼓~
+2019-04-28 22:56:47  [ main:40494 ] - [ INFO ]  times is : 5 。打鼓~
+2019-04-28 22:56:50  [ main:43035 ] - [ INFO ]  times is : 5 。退出打鼓~
+2019-04-28 22:56:52  [ main:45555 ] - [ INFO ]  times is : 5 。移动至下一个~
+2019-04-28 22:56:52  [ main:45555 ] - [ INFO ]  times : 5, spend time is : 45s556ms
+2019-04-28 22:56:52  [ main:45555 ] - [ INFO ]  times is : 6 。进入鼓~
+2019-04-28 22:56:55  [ main:48075 ] - [ INFO ]  times is : 6 。打鼓~
+2019-04-28 22:56:57  [ main:50615 ] - [ INFO ]  times is : 6 。退出打鼓~
+2019-04-28 22:57:00  [ main:53136 ] - [ INFO ]  times is : 6 。移动至下一个~
+2019-04-28 22:57:00  [ main:53136 ] - [ INFO ]  times : 6, spend time is : 53s137ms
+2019-04-28 22:57:00  [ main:53136 ] - [ INFO ]  times is : 7 。进入鼓~
+2019-04-28 22:57:03  [ main:55656 ] - [ INFO ]  times is : 7 。打鼓~
+2019-04-28 22:57:05  [ main:58197 ] - [ INFO ]  times is : 7 。退出打鼓~
+2019-04-28 22:57:08  [ main:60718 ] - [ INFO ]  times is : 7 。移动至下一个~
+2019-04-28 22:57:08  [ main:60718 ] - [ INFO ]  times : 7, spend time is : 60s719ms
+2019-04-28 22:57:08  [ main:60718 ] - [ INFO ]  times is : 8 。进入鼓~
+2019-04-28 22:57:10  [ main:63240 ] - [ INFO ]  times is : 8 。打鼓~
+2019-04-28 22:57:13  [ main:65781 ] - [ INFO ]  times is : 8 。退出打鼓~
+2019-04-28 22:57:15  [ main:68300 ] - [ INFO ]  times is : 8 。移动至下一个~
+2019-04-28 22:57:15  [ main:68300 ] - [ INFO ]  times : 8, spend time is : 68s301ms
+2019-04-28 22:57:15  [ main:68300 ] - [ INFO ]  times is : 9 。进入鼓~
+2019-04-28 22:57:18  [ main:70822 ] - [ INFO ]  times is : 9 。打鼓~
+2019-04-28 22:57:20  [ main:73367 ] - [ INFO ]  times is : 9 。退出打鼓~
+2019-04-28 22:57:23  [ main:75889 ] - [ INFO ]  times is : 9 。移动至下一个~
+2019-04-28 22:57:23  [ main:75889 ] - [ INFO ]  times : 9, spend time is : 75s890ms
+2019-04-28 22:57:23  [ main:75889 ] - [ INFO ]  times is : 10 。进入鼓~
+2019-04-28 22:57:25  [ main:78410 ] - [ INFO ]  times is : 10 。打鼓~
+2019-04-28 22:57:28  [ main:80951 ] - [ INFO ]  times is : 10 。退出打鼓~
+2019-04-28 22:57:30  [ main:83473 ] - [ INFO ]  times is : 10 。移动至下一个~
+2019-04-28 22:57:30  [ main:83473 ] - [ INFO ]  times : 10, spend time is : 83s474ms
+2019-04-28 22:57:30  [ main:83473 ] - [ INFO ]  times is : 11 。进入鼓~
+2019-04-28 22:57:33  [ main:85993 ] - [ INFO ]  times is : 11 。打鼓~
+2019-04-28 22:57:35  [ main:88535 ] - [ INFO ]  times is : 11 。退出打鼓~
+2019-04-28 22:57:38  [ main:91055 ] - [ INFO ]  times is : 11 。移动至下一个~
+2019-04-28 22:57:38  [ main:91055 ] - [ INFO ]  times : 11, spend time is : 91s56ms
+2019-04-28 22:57:38  [ main:91055 ] - [ INFO ]  times is : 12 。进入鼓~
+2019-04-28 22:57:40  [ main:93577 ] - [ INFO ]  times is : 12 。打鼓~
+2019-04-28 22:57:43  [ main:96117 ] - [ INFO ]  times is : 12 。退出打鼓~
+2019-04-28 22:57:45  [ main:98644 ] - [ INFO ]  times is : 12 。移动至下一个~
+2019-04-28 22:57:45  [ main:98644 ] - [ INFO ]  times : 12, spend time is : 98s645ms
+2019-04-28 22:57:45  [ main:98644 ] - [ INFO ]  times is : 13 。进入鼓~
+2019-04-28 22:57:48  [ main:101167 ] - [ INFO ]  times is : 13 。打鼓~
+2019-04-28 22:57:51  [ main:103708 ] - [ INFO ]  times is : 13 。退出打鼓~
+2019-04-28 22:57:53  [ main:106231 ] - [ INFO ]  times is : 13 。移动至下一个~
+2019-04-28 22:57:53  [ main:106231 ] - [ INFO ]  times : 13, spend time is : 106s232ms
+2019-04-28 22:57:53  [ main:106231 ] - [ INFO ]  times is : 14 。进入鼓~
+2019-04-28 22:57:56  [ main:108751 ] - [ INFO ]  times is : 14 。打鼓~
+2019-04-28 22:57:58  [ main:111293 ] - [ INFO ]  times is : 14 。退出打鼓~
+2019-04-28 22:58:01  [ main:113814 ] - [ INFO ]  times is : 14 。移动至下一个~
+2019-04-28 22:58:01  [ main:113814 ] - [ INFO ]  times : 14, spend time is : 113s815ms
+2019-04-28 22:58:01  [ main:113814 ] - [ INFO ]  times is : 15 。进入鼓~
+2019-04-28 22:58:03  [ main:116338 ] - [ INFO ]  times is : 15 。打鼓~
+2019-04-28 22:58:06  [ main:118881 ] - [ INFO ]  times is : 15 。退出打鼓~
+2019-04-28 22:58:08  [ main:121404 ] - [ INFO ]  times is : 15 。移动至下一个~
+2019-04-28 22:58:08  [ main:121404 ] - [ INFO ]  times : 15, spend time is : 121s405ms
+2019-04-28 22:58:08  [ main:121404 ] - [ INFO ]  times is : 16 。进入鼓~
+2019-04-28 22:58:11  [ main:123925 ] - [ INFO ]  times is : 16 。打鼓~
+2019-04-28 22:58:13  [ main:126468 ] - [ INFO ]  times is : 16 。退出打鼓~
+2019-04-28 22:58:16  [ main:128988 ] - [ INFO ]  times is : 16 。移动至下一个~
+2019-04-28 22:58:16  [ main:128988 ] - [ INFO ]  times : 16, spend time is : 128s989ms
+2019-04-28 22:58:16  [ main:128989 ] - [ INFO ]  times is : 17 。进入鼓~
+2019-04-28 22:58:18  [ main:131513 ] - [ INFO ]  times is : 17 。打鼓~
+2019-04-28 22:58:21  [ main:134052 ] - [ INFO ]  times is : 17 。退出打鼓~
+2019-04-28 22:58:23  [ main:136575 ] - [ INFO ]  times is : 17 。移动至下一个~
+2019-04-28 22:58:23  [ main:136575 ] - [ INFO ]  times : 17, spend time is : 136s576ms
+2019-04-28 22:58:23  [ main:136575 ] - [ INFO ]  times is : 18 。进入鼓~
+2019-04-28 22:58:26  [ main:139095 ] - [ INFO ]  times is : 18 。打鼓~
+2019-04-28 22:58:28  [ main:141635 ] - [ INFO ]  times is : 18 。退出打鼓~
+2019-04-28 22:58:31  [ main:144159 ] - [ INFO ]  times is : 18 。移动至下一个~
+2019-04-28 22:58:31  [ main:144159 ] - [ INFO ]  times : 18, spend time is : 144s160ms
+2019-04-28 22:58:31  [ main:144160 ] - [ INFO ]  times is : 19 。进入鼓~
+2019-04-28 22:58:34  [ main:146680 ] - [ INFO ]  times is : 19 。打鼓~
+2019-04-28 22:58:36  [ main:149219 ] - [ INFO ]  times is : 19 。退出打鼓~
+2019-04-28 22:58:39  [ main:151739 ] - [ INFO ]  times is : 19 。移动至下一个~
+2019-04-28 22:58:39  [ main:151739 ] - [ INFO ]  times : 19, spend time is : 151s740ms
+2019-04-28 22:58:39  [ main:151739 ] - [ INFO ]  times is : 20 。进入鼓~
+2019-04-28 22:58:41  [ main:154261 ] - [ INFO ]  times is : 20 。打鼓~
+2019-04-28 22:58:44  [ main:156801 ] - [ INFO ]  times is : 20 。退出打鼓~
+2019-04-28 22:58:46  [ main:159322 ] - [ INFO ]  times is : 20 。移动至下一个~
+2019-04-28 22:58:46  [ main:159322 ] - [ INFO ]  times : 20, spend time is : 159s323ms
+2019-04-28 22:58:46  [ main:159322 ] - [ INFO ]  times is : 21 。进入鼓~
+2019-04-28 22:58:49  [ main:161842 ] - [ INFO ]  times is : 21 。打鼓~
+2019-04-28 22:58:51  [ main:164396 ] - [ INFO ]  times is : 21 。退出打鼓~
+2019-04-28 22:58:54  [ main:166916 ] - [ INFO ]  times is : 21 。移动至下一个~
+2019-04-28 22:58:54  [ main:166916 ] - [ INFO ]  times : 21, spend time is : 166s917ms
+2019-04-28 22:58:54  [ main:166916 ] - [ INFO ]  times is : 22 。进入鼓~
+2019-04-28 22:58:56  [ main:169437 ] - [ INFO ]  times is : 22 。打鼓~
+2019-04-28 22:58:59  [ main:171976 ] - [ INFO ]  times is : 22 。退出打鼓~
+2019-04-28 22:59:01  [ main:174497 ] - [ INFO ]  times is : 22 。移动至下一个~
+2019-04-28 22:59:01  [ main:174497 ] - [ INFO ]  times : 22, spend time is : 174s498ms
+2019-04-28 22:59:01  [ main:174497 ] - [ INFO ]  times is : 23 。进入鼓~
+2019-04-28 22:59:04  [ main:177018 ] - [ INFO ]  times is : 23 。打鼓~
+2019-04-28 22:59:06  [ main:179557 ] - [ INFO ]  times is : 23 。退出打鼓~
+2019-04-28 22:59:09  [ main:182078 ] - [ INFO ]  times is : 23 。移动至下一个~
+2019-04-28 22:59:09  [ main:182078 ] - [ INFO ]  times : 23, spend time is : 182s79ms
+2019-04-28 22:59:09  [ main:182079 ] - [ INFO ]  times is : 24 。进入鼓~
+2019-04-28 22:59:11  [ main:184599 ] - [ INFO ]  times is : 24 。打鼓~
+2019-04-28 22:59:14  [ main:187153 ] - [ INFO ]  times is : 24 。退出打鼓~
+2019-04-28 22:59:17  [ main:189676 ] - [ INFO ]  times is : 24 。移动至下一个~
+2019-04-28 22:59:17  [ main:189676 ] - [ INFO ]  times : 24, spend time is : 189s677ms
+2019-04-28 22:59:17  [ main:189676 ] - [ INFO ]  times is : 25 。进入鼓~
+2019-04-28 22:59:19  [ main:192196 ] - [ INFO ]  times is : 25 。打鼓~
+2019-04-28 22:59:22  [ main:194737 ] - [ INFO ]  times is : 25 。退出打鼓~
+2019-04-28 22:59:24  [ main:197258 ] - [ INFO ]  times is : 25 。移动至下一个~
+2019-04-28 22:59:24  [ main:197258 ] - [ INFO ]  times : 25, spend time is : 197s259ms
+2019-04-28 22:59:24  [ main:197258 ] - [ INFO ]  times is : 26 。进入鼓~
+2019-04-28 22:59:27  [ main:199779 ] - [ INFO ]  times is : 26 。打鼓~
+2019-04-28 22:59:29  [ main:202318 ] - [ INFO ]  times is : 26 。退出打鼓~
+2019-04-28 22:59:32  [ main:204839 ] - [ INFO ]  times is : 26 。移动至下一个~
+2019-04-28 22:59:32  [ main:204839 ] - [ INFO ]  times : 26, spend time is : 204s840ms
+2019-04-28 22:59:32  [ main:204839 ] - [ INFO ]  times is : 27 。进入鼓~
+2019-04-28 22:59:34  [ main:207358 ] - [ INFO ]  times is : 27 。打鼓~
+2019-04-28 22:59:37  [ main:209899 ] - [ INFO ]  times is : 27 。退出打鼓~
+2019-04-28 22:59:39  [ main:212419 ] - [ INFO ]  times is : 27 。移动至下一个~
+2019-04-28 22:59:39  [ main:212419 ] - [ INFO ]  times : 27, spend time is : 212s420ms
+2019-04-28 22:59:39  [ main:212419 ] - [ INFO ]  times is : 28 。进入鼓~
+2019-04-28 22:59:42  [ main:214939 ] - [ INFO ]  times is : 28 。打鼓~
+2019-04-28 22:59:44  [ main:217504 ] - [ INFO ]  times is : 28 。退出打鼓~
+2019-04-28 22:59:47  [ main:220024 ] - [ INFO ]  times is : 28 。移动至下一个~
+2019-04-28 22:59:47  [ main:220024 ] - [ INFO ]  times : 28, spend time is : 220s25ms
+2019-04-28 22:59:47  [ main:220024 ] - [ INFO ]  times is : 29 。进入鼓~
+2019-04-28 22:59:49  [ main:222545 ] - [ INFO ]  times is : 29 。打鼓~
+2019-04-28 22:59:52  [ main:225084 ] - [ INFO ]  times is : 29 。退出打鼓~
+2019-04-28 22:59:54  [ main:227604 ] - [ INFO ]  times is : 29 。移动至下一个~
+2019-04-28 22:59:54  [ main:227604 ] - [ INFO ]  times : 29, spend time is : 227s605ms
+2019-04-28 22:59:54  [ main:227604 ] - [ INFO ]  times is : 30 。进入鼓~

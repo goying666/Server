@@ -1,0 +1,1340 @@
+2019-04-30 09:26:40  [ main:0 ] - [ INFO ]  times is : 0 。进入鼓~
+2019-04-30 09:26:42  [ main:1987 ] - [ INFO ]  times is : 0 。打鼓~
+2019-04-30 09:26:45  [ main:4127 ] - [ INFO ]  times is : 0 。退出打鼓~
+2019-04-30 09:26:46  [ main:5148 ] - [ INFO ]  times is : 0 。移动至下一个~
+2019-04-30 09:26:46  [ main:5148 ] - [ INFO ]  times : 0, spend time is : 5s148ms
+2019-04-30 09:26:46  [ main:5148 ] - [ INFO ]  All spend time is : 0m5s148ms
+2019-04-30 09:26:46  [ main:5148 ] - [ INFO ]  times is : 1 。进入鼓~
+2019-04-30 09:26:47  [ main:7057 ] - [ INFO ]  times is : 1 。打鼓~
+2019-04-30 09:26:50  [ main:9197 ] - [ INFO ]  times is : 1 。退出打鼓~
+2019-04-30 09:26:51  [ main:10218 ] - [ INFO ]  times is : 1 。移动至下一个~
+2019-04-30 09:26:51  [ main:10218 ] - [ INFO ]  times : 1, spend time is : 10s218ms
+2019-04-30 09:26:51  [ main:10218 ] - [ INFO ]  All spend time is : 0m10s218ms
+2019-04-30 09:26:51  [ main:10218 ] - [ INFO ]  times is : 2 。进入鼓~
+2019-04-30 09:26:53  [ main:12128 ] - [ INFO ]  times is : 2 。打鼓~
+2019-04-30 09:26:55  [ main:14268 ] - [ INFO ]  times is : 2 。退出打鼓~
+2019-04-30 09:26:56  [ main:15289 ] - [ INFO ]  times is : 2 。移动至下一个~
+2019-04-30 09:26:56  [ main:15289 ] - [ INFO ]  times : 2, spend time is : 15s289ms
+2019-04-30 09:26:56  [ main:15289 ] - [ INFO ]  All spend time is : 0m15s289ms
+2019-04-30 09:26:56  [ main:15290 ] - [ INFO ]  times is : 3 。进入鼓~
+2019-04-30 09:26:58  [ main:17201 ] - [ INFO ]  times is : 3 。打鼓~
+2019-04-30 09:27:00  [ main:19344 ] - [ INFO ]  times is : 3 。退出打鼓~
+2019-04-30 09:27:01  [ main:20365 ] - [ INFO ]  times is : 3 。移动至下一个~
+2019-04-30 09:27:01  [ main:20365 ] - [ INFO ]  times : 3, spend time is : 20s365ms
+2019-04-30 09:27:01  [ main:20365 ] - [ INFO ]  All spend time is : 0m20s365ms
+2019-04-30 09:27:01  [ main:20366 ] - [ INFO ]  times is : 4 。进入鼓~
+2019-04-30 09:27:03  [ main:22275 ] - [ INFO ]  times is : 4 。打鼓~
+2019-04-30 09:27:05  [ main:24414 ] - [ INFO ]  times is : 4 。退出打鼓~
+2019-04-30 09:27:25  [ main:0 ] - [ INFO ]  times is : 0 。进入鼓~
+2019-04-30 09:27:27  [ main:1440 ] - [ INFO ]  times is : 0 。打鼓~
+2019-04-30 09:27:30  [ main:4579 ] - [ INFO ]  times is : 0 。退出打鼓~
+2019-04-30 09:27:31  [ main:5600 ] - [ INFO ]  times is : 0 。移动至下一个~
+2019-04-30 09:27:31  [ main:5600 ] - [ INFO ]  times : 0, spend time is : 5s600ms
+2019-04-30 09:27:31  [ main:5600 ] - [ INFO ]  All spend time is : 0m5s600ms
+2019-04-30 09:27:31  [ main:5600 ] - [ INFO ]  times is : 1 。进入鼓~
+2019-04-30 09:27:32  [ main:7011 ] - [ INFO ]  times is : 1 。打鼓~
+2019-04-30 09:27:35  [ main:10151 ] - [ INFO ]  times is : 1 。退出打鼓~
+2019-04-30 09:27:37  [ main:11172 ] - [ INFO ]  times is : 1 。移动至下一个~
+2019-04-30 09:27:37  [ main:11172 ] - [ INFO ]  times : 1, spend time is : 11s172ms
+2019-04-30 09:27:37  [ main:11172 ] - [ INFO ]  All spend time is : 0m11s172ms
+2019-04-30 09:27:37  [ main:11172 ] - [ INFO ]  times is : 2 。进入鼓~
+2019-04-30 09:27:38  [ main:12583 ] - [ INFO ]  times is : 2 。打鼓~
+2019-04-30 09:27:41  [ main:15720 ] - [ INFO ]  times is : 2 。退出打鼓~
+2019-04-30 09:27:42  [ main:16741 ] - [ INFO ]  times is : 2 。移动至下一个~
+2019-04-30 09:27:42  [ main:16741 ] - [ INFO ]  times : 2, spend time is : 16s741ms
+2019-04-30 09:27:42  [ main:16741 ] - [ INFO ]  All spend time is : 0m16s741ms
+2019-04-30 09:27:42  [ main:16741 ] - [ INFO ]  times is : 3 。进入鼓~
+2019-04-30 09:27:43  [ main:18151 ] - [ INFO ]  times is : 3 。打鼓~
+2019-04-30 09:27:47  [ main:21290 ] - [ INFO ]  times is : 3 。退出打鼓~
+2019-04-30 09:27:48  [ main:22311 ] - [ INFO ]  times is : 3 。移动至下一个~
+2019-04-30 09:27:48  [ main:22311 ] - [ INFO ]  times : 3, spend time is : 22s311ms
+2019-04-30 09:27:48  [ main:22311 ] - [ INFO ]  All spend time is : 0m22s311ms
+2019-04-30 09:27:48  [ main:22312 ] - [ INFO ]  times is : 4 。进入鼓~
+2019-04-30 09:27:49  [ main:23721 ] - [ INFO ]  times is : 4 。打鼓~
+2019-04-30 09:27:52  [ main:26860 ] - [ INFO ]  times is : 4 。退出打鼓~
+2019-04-30 09:27:53  [ main:27880 ] - [ INFO ]  times is : 4 。移动至下一个~
+2019-04-30 09:27:53  [ main:27880 ] - [ INFO ]  times : 4, spend time is : 27s880ms
+2019-04-30 09:27:53  [ main:27881 ] - [ INFO ]  All spend time is : 0m27s880ms
+2019-04-30 09:27:53  [ main:27881 ] - [ INFO ]  times is : 5 。进入鼓~
+2019-04-30 09:27:55  [ main:29290 ] - [ INFO ]  times is : 5 。打鼓~
+2019-04-30 09:27:58  [ main:32429 ] - [ INFO ]  times is : 5 。退出打鼓~
+2019-04-30 09:27:59  [ main:33449 ] - [ INFO ]  times is : 5 。移动至下一个~
+2019-04-30 09:27:59  [ main:33449 ] - [ INFO ]  times : 5, spend time is : 33s449ms
+2019-04-30 09:27:59  [ main:33449 ] - [ INFO ]  All spend time is : 0m33s449ms
+2019-04-30 09:27:59  [ main:33449 ] - [ INFO ]  times is : 6 。进入鼓~
+2019-04-30 09:28:00  [ main:34859 ] - [ INFO ]  times is : 6 。打鼓~
+2019-04-30 09:28:03  [ main:37999 ] - [ INFO ]  times is : 6 。退出打鼓~
+2019-04-30 09:28:04  [ main:39017 ] - [ INFO ]  times is : 6 。移动至下一个~
+2019-04-30 09:28:04  [ main:39017 ] - [ INFO ]  times : 6, spend time is : 39s17ms
+2019-04-30 09:28:04  [ main:39017 ] - [ INFO ]  All spend time is : 0m39s17ms
+2019-04-30 09:28:04  [ main:39017 ] - [ INFO ]  times is : 7 。进入鼓~
+2019-04-30 09:28:06  [ main:40427 ] - [ INFO ]  times is : 7 。打鼓~
+2019-04-30 09:28:09  [ main:43567 ] - [ INFO ]  times is : 7 。退出打鼓~
+2019-04-30 09:28:10  [ main:44587 ] - [ INFO ]  times is : 7 。移动至下一个~
+2019-04-30 09:28:10  [ main:44591 ] - [ INFO ]  times : 7, spend time is : 44s587ms
+2019-04-30 09:28:10  [ main:44591 ] - [ INFO ]  All spend time is : 0m44s587ms
+2019-04-30 09:28:10  [ main:44591 ] - [ INFO ]  times is : 8 。进入鼓~
+2019-04-30 09:28:11  [ main:46000 ] - [ INFO ]  times is : 8 。打鼓~
+2019-04-30 09:28:14  [ main:49140 ] - [ INFO ]  times is : 8 。退出打鼓~
+2019-04-30 09:28:16  [ main:50160 ] - [ INFO ]  times is : 8 。移动至下一个~
+2019-04-30 09:28:16  [ main:50160 ] - [ INFO ]  times : 8, spend time is : 50s160ms
+2019-04-30 09:28:16  [ main:50160 ] - [ INFO ]  All spend time is : 0m50s160ms
+2019-04-30 09:28:16  [ main:50160 ] - [ INFO ]  times is : 9 。进入鼓~
+2019-04-30 09:28:17  [ main:51569 ] - [ INFO ]  times is : 9 。打鼓~
+2019-04-30 09:28:20  [ main:54707 ] - [ INFO ]  times is : 9 。退出打鼓~
+2019-04-30 09:28:21  [ main:55728 ] - [ INFO ]  times is : 9 。移动至下一个~
+2019-04-30 09:28:21  [ main:55728 ] - [ INFO ]  times : 9, spend time is : 55s728ms
+2019-04-30 09:28:21  [ main:55729 ] - [ INFO ]  All spend time is : 0m55s728ms
+2019-04-30 09:28:21  [ main:55729 ] - [ INFO ]  times is : 10 。进入鼓~
+2019-04-30 09:28:22  [ main:57137 ] - [ INFO ]  times is : 10 。打鼓~
+2019-04-30 09:28:26  [ main:60278 ] - [ INFO ]  times is : 10 。退出打鼓~
+2019-04-30 09:28:27  [ main:61299 ] - [ INFO ]  times is : 10 。移动至下一个~
+2019-04-30 09:28:27  [ main:61299 ] - [ INFO ]  times : 10, spend time is : 61s299ms
+2019-04-30 09:28:27  [ main:61299 ] - [ INFO ]  All spend time is : 1m1s299ms
+2019-04-30 09:28:27  [ main:61299 ] - [ INFO ]  times is : 11 。进入鼓~
+2019-04-30 09:28:28  [ main:62707 ] - [ INFO ]  times is : 11 。打鼓~
+2019-04-30 09:28:31  [ main:65864 ] - [ INFO ]  times is : 11 。退出打鼓~
+2019-04-30 09:28:32  [ main:66885 ] - [ INFO ]  times is : 11 。移动至下一个~
+2019-04-30 09:28:32  [ main:66885 ] - [ INFO ]  times : 11, spend time is : 66s885ms
+2019-04-30 09:28:32  [ main:66885 ] - [ INFO ]  All spend time is : 1m6s885ms
+2019-04-30 09:28:32  [ main:66885 ] - [ INFO ]  times is : 12 。进入鼓~
+2019-04-30 09:28:34  [ main:68294 ] - [ INFO ]  times is : 12 。打鼓~
+2019-04-30 09:28:37  [ main:71444 ] - [ INFO ]  times is : 12 。退出打鼓~
+2019-04-30 09:28:38  [ main:72466 ] - [ INFO ]  times is : 12 。移动至下一个~
+2019-04-30 09:28:38  [ main:72466 ] - [ INFO ]  times : 12, spend time is : 72s466ms
+2019-04-30 09:28:38  [ main:72466 ] - [ INFO ]  All spend time is : 1m12s466ms
+2019-04-30 09:28:38  [ main:72466 ] - [ INFO ]  times is : 13 。进入鼓~
+2019-04-30 09:28:39  [ main:73874 ] - [ INFO ]  times is : 13 。打鼓~
+2019-04-30 09:28:42  [ main:77013 ] - [ INFO ]  times is : 13 。退出打鼓~
+2019-04-30 09:28:43  [ main:78034 ] - [ INFO ]  times is : 13 。移动至下一个~
+2019-04-30 09:28:43  [ main:78034 ] - [ INFO ]  times : 13, spend time is : 78s34ms
+2019-04-30 09:28:43  [ main:78034 ] - [ INFO ]  All spend time is : 1m18s34ms
+2019-04-30 09:28:43  [ main:78034 ] - [ INFO ]  times is : 14 。进入鼓~
+2019-04-30 09:28:45  [ main:79444 ] - [ INFO ]  times is : 14 。打鼓~
+2019-04-30 09:28:48  [ main:82583 ] - [ INFO ]  times is : 14 。退出打鼓~
+2019-04-30 09:28:49  [ main:83603 ] - [ INFO ]  times is : 14 。移动至下一个~
+2019-04-30 09:28:49  [ main:83603 ] - [ INFO ]  times : 14, spend time is : 83s603ms
+2019-04-30 09:28:49  [ main:83603 ] - [ INFO ]  All spend time is : 1m23s603ms
+2019-04-30 09:28:49  [ main:83603 ] - [ INFO ]  times is : 15 。进入鼓~
+2019-04-30 09:28:50  [ main:85013 ] - [ INFO ]  times is : 15 。打鼓~
+2019-04-30 09:28:53  [ main:88152 ] - [ INFO ]  times is : 15 。退出打鼓~
+2019-04-30 09:28:55  [ main:89172 ] - [ INFO ]  times is : 15 。移动至下一个~
+2019-04-30 09:28:55  [ main:89172 ] - [ INFO ]  times : 15, spend time is : 89s172ms
+2019-04-30 09:28:55  [ main:89172 ] - [ INFO ]  All spend time is : 1m29s172ms
+2019-04-30 09:28:55  [ main:89172 ] - [ INFO ]  times is : 16 。进入鼓~
+2019-04-30 09:28:56  [ main:90580 ] - [ INFO ]  times is : 16 。打鼓~
+2019-04-30 09:28:59  [ main:93719 ] - [ INFO ]  times is : 16 。退出打鼓~
+2019-04-30 09:29:00  [ main:94739 ] - [ INFO ]  times is : 16 。移动至下一个~
+2019-04-30 09:29:00  [ main:94739 ] - [ INFO ]  times : 16, spend time is : 94s739ms
+2019-04-30 09:29:00  [ main:94739 ] - [ INFO ]  All spend time is : 1m34s739ms
+2019-04-30 09:29:00  [ main:94739 ] - [ INFO ]  times is : 17 。进入鼓~
+2019-04-30 09:29:01  [ main:96148 ] - [ INFO ]  times is : 17 。打鼓~
+2019-04-30 09:29:05  [ main:99288 ] - [ INFO ]  times is : 17 。退出打鼓~
+2019-04-30 09:29:06  [ main:100307 ] - [ INFO ]  times is : 17 。移动至下一个~
+2019-04-30 09:29:06  [ main:100307 ] - [ INFO ]  times : 17, spend time is : 100s307ms
+2019-04-30 09:29:06  [ main:100307 ] - [ INFO ]  All spend time is : 1m40s307ms
+2019-04-30 09:29:06  [ main:100307 ] - [ INFO ]  times is : 18 。进入鼓~
+2019-04-30 09:29:07  [ main:101727 ] - [ INFO ]  times is : 18 。打鼓~
+2019-04-30 09:29:10  [ main:104866 ] - [ INFO ]  times is : 18 。退出打鼓~
+2019-04-30 09:29:11  [ main:105886 ] - [ INFO ]  times is : 18 。移动至下一个~
+2019-04-30 09:29:11  [ main:105886 ] - [ INFO ]  times : 18, spend time is : 105s886ms
+2019-04-30 09:29:11  [ main:105886 ] - [ INFO ]  All spend time is : 1m45s886ms
+2019-04-30 09:29:11  [ main:105886 ] - [ INFO ]  times is : 19 。进入鼓~
+2019-04-30 09:29:13  [ main:107296 ] - [ INFO ]  times is : 19 。打鼓~
+2019-04-30 09:29:16  [ main:110502 ] - [ INFO ]  times is : 19 。退出打鼓~
+2019-04-30 09:29:17  [ main:111523 ] - [ INFO ]  times is : 19 。移动至下一个~
+2019-04-30 09:29:17  [ main:111523 ] - [ INFO ]  times : 19, spend time is : 111s523ms
+2019-04-30 09:29:17  [ main:111523 ] - [ INFO ]  All spend time is : 1m51s523ms
+2019-04-30 09:29:17  [ main:111523 ] - [ INFO ]  times is : 20 。进入鼓~
+2019-04-30 09:29:18  [ main:112931 ] - [ INFO ]  times is : 20 。打鼓~
+2019-04-30 09:29:21  [ main:116070 ] - [ INFO ]  times is : 20 。退出打鼓~
+2019-04-30 09:29:22  [ main:117092 ] - [ INFO ]  times is : 20 。移动至下一个~
+2019-04-30 09:29:22  [ main:117092 ] - [ INFO ]  times : 20, spend time is : 117s92ms
+2019-04-30 09:29:22  [ main:117092 ] - [ INFO ]  All spend time is : 1m57s92ms
+2019-04-30 09:29:22  [ main:117092 ] - [ INFO ]  times is : 21 。进入鼓~
+2019-04-30 09:29:24  [ main:118510 ] - [ INFO ]  times is : 21 。打鼓~
+2019-04-30 09:29:27  [ main:121649 ] - [ INFO ]  times is : 21 。退出打鼓~
+2019-04-30 09:29:28  [ main:122669 ] - [ INFO ]  times is : 21 。移动至下一个~
+2019-04-30 09:29:28  [ main:122669 ] - [ INFO ]  times : 21, spend time is : 122s669ms
+2019-04-30 09:29:28  [ main:122669 ] - [ INFO ]  All spend time is : 2m2s669ms
+2019-04-30 09:36:36  [ main:0 ] - [ INFO ]  times is : 0 。进入鼓~
+2019-04-30 09:36:37  [ main:1437 ] - [ INFO ]  times is : 0 。打鼓~
+2019-04-30 09:36:40  [ main:4583 ] - [ INFO ]  times is : 0 。退出打鼓~
+2019-04-30 09:36:41  [ main:5604 ] - [ INFO ]  times is : 0 。移动至下一个~
+2019-04-30 09:36:41  [ main:5604 ] - [ INFO ]  times : 0, spend time is : 171s19ms
+2019-04-30 09:36:41  [ main:5604 ] - [ INFO ]  All spend time is : 2m51s19ms
+2019-04-30 09:58:44  [ main:0 ] - [ INFO ]  times is : 0 。进入鼓~
+2019-04-30 09:58:49  [ main:5209 ] - [ INFO ]  times is : 0 。移动至下一个~
+2019-04-30 09:58:49  [ main:5209 ] - [ INFO ]  times : 0, spend time is : 5s209ms
+2019-04-30 09:58:49  [ main:5209 ] - [ INFO ]  All spend time is : 0m5s209ms
+2019-04-30 09:58:49  [ main:5209 ] - [ INFO ]  times is : 1 。进入鼓~
+2019-04-30 09:58:54  [ main:10360 ] - [ INFO ]  times is : 1 。移动至下一个~
+2019-04-30 09:58:54  [ main:10360 ] - [ INFO ]  times : 1, spend time is : 5s151ms
+2019-04-30 09:58:54  [ main:10360 ] - [ INFO ]  All spend time is : 0m10s360ms
+2019-04-30 09:58:54  [ main:10360 ] - [ INFO ]  times is : 2 。进入鼓~
+2019-04-30 09:59:00  [ main:15510 ] - [ INFO ]  times is : 2 。移动至下一个~
+2019-04-30 09:59:00  [ main:15510 ] - [ INFO ]  times : 2, spend time is : 5s150ms
+2019-04-30 09:59:00  [ main:15510 ] - [ INFO ]  All spend time is : 0m15s510ms
+2019-04-30 09:59:00  [ main:15510 ] - [ INFO ]  times is : 3 。进入鼓~
+2019-04-30 09:59:05  [ main:20664 ] - [ INFO ]  times is : 3 。移动至下一个~
+2019-04-30 09:59:05  [ main:20664 ] - [ INFO ]  times : 3, spend time is : 5s154ms
+2019-04-30 09:59:05  [ main:20664 ] - [ INFO ]  All spend time is : 0m20s664ms
+2019-04-30 09:59:05  [ main:20664 ] - [ INFO ]  times is : 4 。进入鼓~
+2019-04-30 09:59:10  [ main:25813 ] - [ INFO ]  times is : 4 。移动至下一个~
+2019-04-30 09:59:10  [ main:25813 ] - [ INFO ]  times : 4, spend time is : 5s149ms
+2019-04-30 09:59:10  [ main:25813 ] - [ INFO ]  All spend time is : 0m25s813ms
+2019-04-30 09:59:10  [ main:25813 ] - [ INFO ]  times is : 5 。进入鼓~
+2019-04-30 09:59:15  [ main:30966 ] - [ INFO ]  times is : 5 。移动至下一个~
+2019-04-30 09:59:15  [ main:30966 ] - [ INFO ]  times : 5, spend time is : 5s153ms
+2019-04-30 09:59:15  [ main:30967 ] - [ INFO ]  All spend time is : 0m30s966ms
+2019-04-30 09:59:15  [ main:30967 ] - [ INFO ]  times is : 6 。进入鼓~
+2019-04-30 09:59:20  [ main:36119 ] - [ INFO ]  times is : 6 。移动至下一个~
+2019-04-30 09:59:20  [ main:36119 ] - [ INFO ]  times : 6, spend time is : 5s152ms
+2019-04-30 09:59:20  [ main:36119 ] - [ INFO ]  All spend time is : 0m36s119ms
+2019-04-30 09:59:20  [ main:36119 ] - [ INFO ]  times is : 7 。进入鼓~
+2019-04-30 09:59:25  [ main:41270 ] - [ INFO ]  times is : 7 。移动至下一个~
+2019-04-30 09:59:25  [ main:41270 ] - [ INFO ]  times : 7, spend time is : 5s151ms
+2019-04-30 09:59:25  [ main:41271 ] - [ INFO ]  All spend time is : 0m41s270ms
+2019-04-30 09:59:25  [ main:41271 ] - [ INFO ]  times is : 8 。进入鼓~
+2019-04-30 09:59:31  [ main:46423 ] - [ INFO ]  times is : 8 。移动至下一个~
+2019-04-30 09:59:31  [ main:46423 ] - [ INFO ]  times : 8, spend time is : 5s152ms
+2019-04-30 09:59:31  [ main:46423 ] - [ INFO ]  All spend time is : 0m46s423ms
+2019-04-30 09:59:31  [ main:46427 ] - [ INFO ]  times is : 9 。进入鼓~
+2019-04-30 09:59:36  [ main:51581 ] - [ INFO ]  times is : 9 。移动至下一个~
+2019-04-30 09:59:36  [ main:51581 ] - [ INFO ]  times : 9, spend time is : 5s154ms
+2019-04-30 09:59:36  [ main:51581 ] - [ INFO ]  All spend time is : 0m51s581ms
+2019-04-30 09:59:36  [ main:51581 ] - [ INFO ]  times is : 10 。进入鼓~
+2019-04-30 09:59:41  [ main:56730 ] - [ INFO ]  times is : 10 。移动至下一个~
+2019-04-30 09:59:41  [ main:56730 ] - [ INFO ]  times : 10, spend time is : 5s149ms
+2019-04-30 09:59:41  [ main:56730 ] - [ INFO ]  All spend time is : 0m56s730ms
+2019-04-30 09:59:41  [ main:56730 ] - [ INFO ]  times is : 11 。进入鼓~
+2019-04-30 09:59:46  [ main:61882 ] - [ INFO ]  times is : 11 。移动至下一个~
+2019-04-30 09:59:46  [ main:61882 ] - [ INFO ]  times : 11, spend time is : 5s152ms
+2019-04-30 09:59:46  [ main:61882 ] - [ INFO ]  All spend time is : 1m1s882ms
+2019-04-30 09:59:46  [ main:61882 ] - [ INFO ]  times is : 12 。进入鼓~
+2019-04-30 09:59:51  [ main:67053 ] - [ INFO ]  times is : 12 。移动至下一个~
+2019-04-30 09:59:51  [ main:67053 ] - [ INFO ]  times : 12, spend time is : 5s171ms
+2019-04-30 09:59:51  [ main:67053 ] - [ INFO ]  All spend time is : 1m7s53ms
+2019-04-30 09:59:51  [ main:67053 ] - [ INFO ]  times is : 13 。进入鼓~
+2019-04-30 09:59:56  [ main:72204 ] - [ INFO ]  times is : 13 。移动至下一个~
+2019-04-30 09:59:56  [ main:72204 ] - [ INFO ]  times : 13, spend time is : 5s151ms
+2019-04-30 09:59:56  [ main:72204 ] - [ INFO ]  All spend time is : 1m12s204ms
+2019-04-30 09:59:56  [ main:72204 ] - [ INFO ]  times is : 14 。进入鼓~
+2019-04-30 10:00:01  [ main:77361 ] - [ INFO ]  times is : 14 。移动至下一个~
+2019-04-30 10:00:01  [ main:77361 ] - [ INFO ]  times : 14, spend time is : 5s157ms
+2019-04-30 10:00:01  [ main:77361 ] - [ INFO ]  All spend time is : 1m17s361ms
+2019-04-30 10:00:01  [ main:77361 ] - [ INFO ]  times is : 15 。进入鼓~
+2019-04-30 10:00:07  [ main:82516 ] - [ INFO ]  times is : 15 。移动至下一个~
+2019-04-30 10:00:07  [ main:82516 ] - [ INFO ]  times : 15, spend time is : 5s155ms
+2019-04-30 10:00:07  [ main:82516 ] - [ INFO ]  All spend time is : 1m22s516ms
+2019-04-30 10:00:07  [ main:82516 ] - [ INFO ]  times is : 16 。进入鼓~
+2019-04-30 10:00:12  [ main:87671 ] - [ INFO ]  times is : 16 。移动至下一个~
+2019-04-30 10:00:12  [ main:87671 ] - [ INFO ]  times : 16, spend time is : 5s155ms
+2019-04-30 10:00:12  [ main:87671 ] - [ INFO ]  All spend time is : 1m27s671ms
+2019-04-30 10:00:12  [ main:87671 ] - [ INFO ]  times is : 17 。进入鼓~
+2019-04-30 10:00:17  [ main:92824 ] - [ INFO ]  times is : 17 。移动至下一个~
+2019-04-30 10:00:17  [ main:92824 ] - [ INFO ]  times : 17, spend time is : 5s153ms
+2019-04-30 10:00:17  [ main:92824 ] - [ INFO ]  All spend time is : 1m32s824ms
+2019-04-30 10:00:17  [ main:92824 ] - [ INFO ]  times is : 18 。进入鼓~
+2019-04-30 10:00:22  [ main:97977 ] - [ INFO ]  times is : 18 。移动至下一个~
+2019-04-30 10:00:22  [ main:97977 ] - [ INFO ]  times : 18, spend time is : 5s153ms
+2019-04-30 10:00:22  [ main:97977 ] - [ INFO ]  All spend time is : 1m37s977ms
+2019-04-30 10:00:22  [ main:97977 ] - [ INFO ]  times is : 19 。进入鼓~
+2019-04-30 10:00:27  [ main:103126 ] - [ INFO ]  times is : 19 。移动至下一个~
+2019-04-30 10:00:27  [ main:103126 ] - [ INFO ]  times : 19, spend time is : 5s149ms
+2019-04-30 10:00:27  [ main:103126 ] - [ INFO ]  All spend time is : 1m43s126ms
+2019-04-30 10:00:27  [ main:103126 ] - [ INFO ]  times is : 20 。进入鼓~
+2019-04-30 10:00:32  [ main:108280 ] - [ INFO ]  times is : 20 。移动至下一个~
+2019-04-30 10:00:32  [ main:108280 ] - [ INFO ]  times : 20, spend time is : 5s154ms
+2019-04-30 10:00:32  [ main:108280 ] - [ INFO ]  All spend time is : 1m48s280ms
+2019-04-30 10:00:32  [ main:108280 ] - [ INFO ]  times is : 21 。进入鼓~
+2019-04-30 10:00:38  [ main:113432 ] - [ INFO ]  times is : 21 。移动至下一个~
+2019-04-30 10:00:38  [ main:113432 ] - [ INFO ]  times : 21, spend time is : 5s152ms
+2019-04-30 10:00:38  [ main:113432 ] - [ INFO ]  All spend time is : 1m53s432ms
+2019-04-30 10:00:38  [ main:113432 ] - [ INFO ]  times is : 22 。进入鼓~
+2019-04-30 10:00:43  [ main:118584 ] - [ INFO ]  times is : 22 。移动至下一个~
+2019-04-30 10:00:43  [ main:118584 ] - [ INFO ]  times : 22, spend time is : 5s152ms
+2019-04-30 10:00:43  [ main:118584 ] - [ INFO ]  All spend time is : 1m58s584ms
+2019-04-30 10:00:43  [ main:118584 ] - [ INFO ]  times is : 23 。进入鼓~
+2019-04-30 10:00:48  [ main:123740 ] - [ INFO ]  times is : 23 。移动至下一个~
+2019-04-30 10:00:48  [ main:123740 ] - [ INFO ]  times : 23, spend time is : 5s156ms
+2019-04-30 10:00:48  [ main:123740 ] - [ INFO ]  All spend time is : 2m3s740ms
+2019-04-30 10:00:48  [ main:123740 ] - [ INFO ]  times is : 24 。进入鼓~
+2019-04-30 10:00:53  [ main:128893 ] - [ INFO ]  times is : 24 。移动至下一个~
+2019-04-30 10:00:53  [ main:128893 ] - [ INFO ]  times : 24, spend time is : 5s153ms
+2019-04-30 10:00:53  [ main:128894 ] - [ INFO ]  All spend time is : 2m8s893ms
+2019-04-30 10:00:53  [ main:128894 ] - [ INFO ]  times is : 25 。进入鼓~
+2019-04-30 10:00:58  [ main:134065 ] - [ INFO ]  times is : 25 。移动至下一个~
+2019-04-30 10:00:58  [ main:134065 ] - [ INFO ]  times : 25, spend time is : 5s171ms
+2019-04-30 10:00:58  [ main:134065 ] - [ INFO ]  All spend time is : 2m14s65ms
+2019-04-30 10:00:58  [ main:134065 ] - [ INFO ]  times is : 26 。进入鼓~
+2019-04-30 10:01:03  [ main:139220 ] - [ INFO ]  times is : 26 。移动至下一个~
+2019-04-30 10:01:03  [ main:139220 ] - [ INFO ]  times : 26, spend time is : 5s155ms
+2019-04-30 10:01:03  [ main:139220 ] - [ INFO ]  All spend time is : 2m19s220ms
+2019-04-30 10:01:03  [ main:139220 ] - [ INFO ]  times is : 27 。进入鼓~
+2019-04-30 10:01:09  [ main:144374 ] - [ INFO ]  times is : 27 。移动至下一个~
+2019-04-30 10:01:09  [ main:144374 ] - [ INFO ]  times : 27, spend time is : 5s154ms
+2019-04-30 10:01:09  [ main:144374 ] - [ INFO ]  All spend time is : 2m24s374ms
+2019-04-30 10:01:09  [ main:144374 ] - [ INFO ]  times is : 28 。进入鼓~
+2019-04-30 10:01:14  [ main:149522 ] - [ INFO ]  times is : 28 。移动至下一个~
+2019-04-30 10:01:14  [ main:149522 ] - [ INFO ]  times : 28, spend time is : 5s148ms
+2019-04-30 10:01:14  [ main:149522 ] - [ INFO ]  All spend time is : 2m29s522ms
+2019-04-30 10:01:14  [ main:149523 ] - [ INFO ]  times is : 29 。进入鼓~
+2019-04-30 10:01:19  [ main:154689 ] - [ INFO ]  times is : 29 。移动至下一个~
+2019-04-30 10:01:19  [ main:154689 ] - [ INFO ]  times : 29, spend time is : 5s166ms
+2019-04-30 10:01:19  [ main:154689 ] - [ INFO ]  All spend time is : 2m34s689ms
+2019-04-30 10:01:19  [ main:154689 ] - [ INFO ]  times is : 30 。进入鼓~
+2019-04-30 10:01:24  [ main:159851 ] - [ INFO ]  times is : 30 。移动至下一个~
+2019-04-30 10:01:24  [ main:159851 ] - [ INFO ]  times : 30, spend time is : 5s162ms
+2019-04-30 10:01:24  [ main:159852 ] - [ INFO ]  All spend time is : 2m39s851ms
+2019-04-30 10:01:24  [ main:159852 ] - [ INFO ]  times is : 31 。进入鼓~
+2019-04-30 10:01:29  [ main:165003 ] - [ INFO ]  times is : 31 。移动至下一个~
+2019-04-30 10:01:29  [ main:165003 ] - [ INFO ]  times : 31, spend time is : 5s151ms
+2019-04-30 10:01:29  [ main:165003 ] - [ INFO ]  All spend time is : 2m45s3ms
+2019-04-30 10:01:29  [ main:165003 ] - [ INFO ]  times is : 32 。进入鼓~
+2019-04-30 10:01:34  [ main:170154 ] - [ INFO ]  times is : 32 。移动至下一个~
+2019-04-30 10:01:34  [ main:170154 ] - [ INFO ]  times : 32, spend time is : 5s151ms
+2019-04-30 10:01:34  [ main:170154 ] - [ INFO ]  All spend time is : 2m50s154ms
+2019-04-30 10:01:34  [ main:170154 ] - [ INFO ]  times is : 33 。进入鼓~
+2019-04-30 10:01:39  [ main:175319 ] - [ INFO ]  times is : 33 。移动至下一个~
+2019-04-30 10:01:39  [ main:175319 ] - [ INFO ]  times : 33, spend time is : 5s165ms
+2019-04-30 10:01:39  [ main:175319 ] - [ INFO ]  All spend time is : 2m55s319ms
+2019-04-30 10:01:39  [ main:175319 ] - [ INFO ]  times is : 34 。进入鼓~
+2019-04-30 10:01:45  [ main:180469 ] - [ INFO ]  times is : 34 。移动至下一个~
+2019-04-30 10:01:45  [ main:180469 ] - [ INFO ]  times : 34, spend time is : 5s150ms
+2019-04-30 10:01:45  [ main:180469 ] - [ INFO ]  All spend time is : 3m0s469ms
+2019-04-30 10:01:45  [ main:180469 ] - [ INFO ]  times is : 35 。进入鼓~
+2019-04-30 10:01:50  [ main:185620 ] - [ INFO ]  times is : 35 。移动至下一个~
+2019-04-30 10:01:50  [ main:185620 ] - [ INFO ]  times : 35, spend time is : 5s151ms
+2019-04-30 10:01:50  [ main:185620 ] - [ INFO ]  All spend time is : 3m5s620ms
+2019-04-30 10:01:50  [ main:185620 ] - [ INFO ]  times is : 36 。进入鼓~
+2019-04-30 10:01:55  [ main:190770 ] - [ INFO ]  times is : 36 。移动至下一个~
+2019-04-30 10:01:55  [ main:190770 ] - [ INFO ]  times : 36, spend time is : 5s150ms
+2019-04-30 10:01:55  [ main:190770 ] - [ INFO ]  All spend time is : 3m10s770ms
+2019-04-30 10:01:55  [ main:190770 ] - [ INFO ]  times is : 37 。进入鼓~
+2019-04-30 10:02:00  [ main:195925 ] - [ INFO ]  times is : 37 。移动至下一个~
+2019-04-30 10:02:00  [ main:195925 ] - [ INFO ]  times : 37, spend time is : 5s155ms
+2019-04-30 10:02:00  [ main:195925 ] - [ INFO ]  All spend time is : 3m15s925ms
+2019-04-30 10:02:00  [ main:195925 ] - [ INFO ]  times is : 38 。进入鼓~
+2019-04-30 10:02:05  [ main:201074 ] - [ INFO ]  times is : 38 。移动至下一个~
+2019-04-30 10:02:05  [ main:201074 ] - [ INFO ]  times : 38, spend time is : 5s149ms
+2019-04-30 10:02:05  [ main:201074 ] - [ INFO ]  All spend time is : 3m21s74ms
+2019-04-30 10:02:05  [ main:201074 ] - [ INFO ]  times is : 39 。进入鼓~
+2019-04-30 10:02:10  [ main:206230 ] - [ INFO ]  times is : 39 。移动至下一个~
+2019-04-30 10:02:10  [ main:206230 ] - [ INFO ]  times : 39, spend time is : 5s156ms
+2019-04-30 10:02:10  [ main:206230 ] - [ INFO ]  All spend time is : 3m26s230ms
+2019-04-30 10:02:10  [ main:206230 ] - [ INFO ]  times is : 40 。进入鼓~
+2019-04-30 10:02:16  [ main:211421 ] - [ INFO ]  times is : 40 。移动至下一个~
+2019-04-30 10:02:16  [ main:211421 ] - [ INFO ]  times : 40, spend time is : 5s191ms
+2019-04-30 10:02:16  [ main:211421 ] - [ INFO ]  All spend time is : 3m31s421ms
+2019-04-30 10:02:16  [ main:211421 ] - [ INFO ]  times is : 41 。进入鼓~
+2019-04-30 10:02:21  [ main:216571 ] - [ INFO ]  times is : 41 。移动至下一个~
+2019-04-30 10:02:21  [ main:216571 ] - [ INFO ]  times : 41, spend time is : 5s150ms
+2019-04-30 10:02:21  [ main:216571 ] - [ INFO ]  All spend time is : 3m36s571ms
+2019-04-30 10:02:21  [ main:216571 ] - [ INFO ]  times is : 42 。进入鼓~
+2019-04-30 10:02:26  [ main:221721 ] - [ INFO ]  times is : 42 。移动至下一个~
+2019-04-30 10:02:26  [ main:221721 ] - [ INFO ]  times : 42, spend time is : 5s150ms
+2019-04-30 10:02:26  [ main:221721 ] - [ INFO ]  All spend time is : 3m41s721ms
+2019-04-30 10:02:26  [ main:221722 ] - [ INFO ]  times is : 43 。进入鼓~
+2019-04-30 10:02:31  [ main:226874 ] - [ INFO ]  times is : 43 。移动至下一个~
+2019-04-30 10:02:31  [ main:226874 ] - [ INFO ]  times : 43, spend time is : 5s152ms
+2019-04-30 10:02:31  [ main:226874 ] - [ INFO ]  All spend time is : 3m46s874ms
+2019-04-30 10:02:31  [ main:226874 ] - [ INFO ]  times is : 44 。进入鼓~
+2019-04-30 10:02:36  [ main:232025 ] - [ INFO ]  times is : 44 。移动至下一个~
+2019-04-30 10:02:36  [ main:232025 ] - [ INFO ]  times : 44, spend time is : 5s151ms
+2019-04-30 10:02:36  [ main:232025 ] - [ INFO ]  All spend time is : 3m52s25ms
+2019-04-30 10:02:36  [ main:232026 ] - [ INFO ]  times is : 45 。进入鼓~
+2019-04-30 10:02:41  [ main:237214 ] - [ INFO ]  times is : 45 。移动至下一个~
+2019-04-30 10:02:41  [ main:237214 ] - [ INFO ]  times : 45, spend time is : 5s188ms
+2019-04-30 10:02:41  [ main:237214 ] - [ INFO ]  All spend time is : 3m57s214ms
+2019-04-30 10:02:41  [ main:237214 ] - [ INFO ]  times is : 46 。进入鼓~
+2019-04-30 10:02:59  [ main:0 ] - [ INFO ]  times : 0, spend time is : 5s28ms
+2019-04-30 10:02:59  [ main:5 ] - [ INFO ]  All spend time is : 0m5s28ms
+2019-04-30 10:03:04  [ main:4988 ] - [ INFO ]  times : 1, spend time is : 4s983ms
+2019-04-30 10:03:04  [ main:4988 ] - [ INFO ]  All spend time is : 0m10s16ms
+2019-04-30 10:03:09  [ main:9970 ] - [ INFO ]  times : 2, spend time is : 4s982ms
+2019-04-30 10:03:09  [ main:9970 ] - [ INFO ]  All spend time is : 0m14s998ms
+2019-04-30 10:03:14  [ main:14951 ] - [ INFO ]  times : 3, spend time is : 4s981ms
+2019-04-30 10:03:14  [ main:14951 ] - [ INFO ]  All spend time is : 0m19s979ms
+2019-04-30 10:03:19  [ main:19932 ] - [ INFO ]  times : 4, spend time is : 4s981ms
+2019-04-30 10:03:19  [ main:19932 ] - [ INFO ]  All spend time is : 0m24s960ms
+2019-04-30 10:03:24  [ main:24911 ] - [ INFO ]  times : 5, spend time is : 4s978ms
+2019-04-30 10:03:24  [ main:24911 ] - [ INFO ]  All spend time is : 0m29s939ms
+2019-04-30 10:03:29  [ main:29892 ] - [ INFO ]  times : 6, spend time is : 4s981ms
+2019-04-30 10:03:29  [ main:29892 ] - [ INFO ]  All spend time is : 0m34s920ms
+2019-04-30 10:03:34  [ main:34873 ] - [ INFO ]  times : 7, spend time is : 4s981ms
+2019-04-30 10:03:34  [ main:34873 ] - [ INFO ]  All spend time is : 0m39s901ms
+2019-04-30 10:03:39  [ main:39853 ] - [ INFO ]  times : 8, spend time is : 4s980ms
+2019-04-30 10:03:39  [ main:39853 ] - [ INFO ]  All spend time is : 0m44s881ms
+2019-04-30 10:03:44  [ main:44842 ] - [ INFO ]  times : 9, spend time is : 4s989ms
+2019-04-30 10:03:44  [ main:44842 ] - [ INFO ]  All spend time is : 0m49s870ms
+2019-04-30 10:03:49  [ main:49846 ] - [ INFO ]  times : 10, spend time is : 5s4ms
+2019-04-30 10:03:49  [ main:49846 ] - [ INFO ]  All spend time is : 0m54s874ms
+2019-04-30 10:03:54  [ main:54826 ] - [ INFO ]  times : 11, spend time is : 4s980ms
+2019-04-30 10:03:54  [ main:54826 ] - [ INFO ]  All spend time is : 0m59s854ms
+2019-04-30 10:03:59  [ main:59808 ] - [ INFO ]  times : 12, spend time is : 4s982ms
+2019-04-30 10:03:59  [ main:59808 ] - [ INFO ]  All spend time is : 1m4s836ms
+2019-04-30 10:04:04  [ main:64812 ] - [ INFO ]  times : 13, spend time is : 5s4ms
+2019-04-30 10:04:04  [ main:64812 ] - [ INFO ]  All spend time is : 1m9s840ms
+2019-04-30 10:04:09  [ main:69793 ] - [ INFO ]  times : 14, spend time is : 4s981ms
+2019-04-30 10:04:09  [ main:69794 ] - [ INFO ]  All spend time is : 1m14s821ms
+2019-04-30 10:04:14  [ main:74773 ] - [ INFO ]  times : 15, spend time is : 4s979ms
+2019-04-30 10:04:14  [ main:74773 ] - [ INFO ]  All spend time is : 1m19s801ms
+2019-04-30 10:04:19  [ main:79751 ] - [ INFO ]  times : 16, spend time is : 4s977ms
+2019-04-30 10:04:19  [ main:79751 ] - [ INFO ]  All spend time is : 1m24s779ms
+2019-04-30 10:04:24  [ main:84731 ] - [ INFO ]  times : 17, spend time is : 4s980ms
+2019-04-30 10:04:24  [ main:84731 ] - [ INFO ]  All spend time is : 1m29s759ms
+2019-04-30 10:04:29  [ main:89709 ] - [ INFO ]  times : 18, spend time is : 4s977ms
+2019-04-30 10:04:29  [ main:89709 ] - [ INFO ]  All spend time is : 1m34s737ms
+2019-04-30 10:04:34  [ main:94707 ] - [ INFO ]  times : 19, spend time is : 4s998ms
+2019-04-30 10:04:34  [ main:94707 ] - [ INFO ]  All spend time is : 1m39s735ms
+2019-04-30 10:04:39  [ main:99686 ] - [ INFO ]  times : 20, spend time is : 4s979ms
+2019-04-30 10:04:39  [ main:99686 ] - [ INFO ]  All spend time is : 1m44s714ms
+2019-04-30 10:04:44  [ main:104664 ] - [ INFO ]  times : 21, spend time is : 4s978ms
+2019-04-30 10:04:44  [ main:104664 ] - [ INFO ]  All spend time is : 1m49s692ms
+2019-04-30 10:04:49  [ main:109666 ] - [ INFO ]  times : 22, spend time is : 5s1ms
+2019-04-30 10:04:49  [ main:109666 ] - [ INFO ]  All spend time is : 1m54s694ms
+2019-04-30 10:04:54  [ main:114645 ] - [ INFO ]  times : 23, spend time is : 4s978ms
+2019-04-30 10:04:54  [ main:114645 ] - [ INFO ]  All spend time is : 1m59s673ms
+2019-04-30 10:04:59  [ main:119631 ] - [ INFO ]  times : 24, spend time is : 4s986ms
+2019-04-30 10:04:59  [ main:119631 ] - [ INFO ]  All spend time is : 2m4s659ms
+2019-04-30 10:05:04  [ main:124613 ] - [ INFO ]  times : 25, spend time is : 4s981ms
+2019-04-30 10:05:04  [ main:124613 ] - [ INFO ]  All spend time is : 2m9s641ms
+2019-04-30 10:05:09  [ main:129593 ] - [ INFO ]  times : 26, spend time is : 4s980ms
+2019-04-30 10:05:09  [ main:129593 ] - [ INFO ]  All spend time is : 2m14s621ms
+2019-04-30 10:05:14  [ main:134579 ] - [ INFO ]  times : 27, spend time is : 4s985ms
+2019-04-30 10:05:14  [ main:134579 ] - [ INFO ]  All spend time is : 2m19s607ms
+2019-04-30 10:05:19  [ main:139558 ] - [ INFO ]  times : 28, spend time is : 4s979ms
+2019-04-30 10:05:19  [ main:139558 ] - [ INFO ]  All spend time is : 2m24s586ms
+2019-04-30 10:05:24  [ main:144539 ] - [ INFO ]  times : 29, spend time is : 4s981ms
+2019-04-30 10:05:24  [ main:144539 ] - [ INFO ]  All spend time is : 2m29s567ms
+2019-04-30 10:05:29  [ main:149519 ] - [ INFO ]  times : 30, spend time is : 4s980ms
+2019-04-30 10:05:29  [ main:149519 ] - [ INFO ]  All spend time is : 2m34s547ms
+2019-04-30 10:05:34  [ main:154501 ] - [ INFO ]  times : 31, spend time is : 4s982ms
+2019-04-30 10:05:34  [ main:154501 ] - [ INFO ]  All spend time is : 2m39s529ms
+2019-04-30 10:05:39  [ main:159485 ] - [ INFO ]  times : 32, spend time is : 4s984ms
+2019-04-30 10:05:39  [ main:159485 ] - [ INFO ]  All spend time is : 2m44s513ms
+2019-04-30 10:05:44  [ main:164464 ] - [ INFO ]  times : 33, spend time is : 4s979ms
+2019-04-30 10:05:44  [ main:164464 ] - [ INFO ]  All spend time is : 2m49s492ms
+2019-04-30 10:05:49  [ main:169468 ] - [ INFO ]  times : 34, spend time is : 5s4ms
+2019-04-30 10:05:49  [ main:169468 ] - [ INFO ]  All spend time is : 2m54s496ms
+2019-04-30 10:05:54  [ main:174479 ] - [ INFO ]  times : 35, spend time is : 5s11ms
+2019-04-30 10:05:54  [ main:174479 ] - [ INFO ]  All spend time is : 2m59s507ms
+2019-04-30 10:05:59  [ main:179482 ] - [ INFO ]  times : 36, spend time is : 5s3ms
+2019-04-30 10:05:59  [ main:179482 ] - [ INFO ]  All spend time is : 3m4s510ms
+2019-04-30 10:06:04  [ main:184468 ] - [ INFO ]  times : 37, spend time is : 4s986ms
+2019-04-30 10:06:04  [ main:184468 ] - [ INFO ]  All spend time is : 3m9s496ms
+2019-04-30 10:06:09  [ main:189450 ] - [ INFO ]  times : 38, spend time is : 4s982ms
+2019-04-30 10:06:09  [ main:189450 ] - [ INFO ]  All spend time is : 3m14s478ms
+2019-04-30 10:06:14  [ main:194429 ] - [ INFO ]  times : 39, spend time is : 4s979ms
+2019-04-30 10:06:14  [ main:194429 ] - [ INFO ]  All spend time is : 3m19s457ms
+2019-04-30 10:06:19  [ main:199411 ] - [ INFO ]  times : 40, spend time is : 4s982ms
+2019-04-30 10:06:19  [ main:199411 ] - [ INFO ]  All spend time is : 3m24s439ms
+2019-04-30 10:06:24  [ main:204393 ] - [ INFO ]  times : 41, spend time is : 4s981ms
+2019-04-30 10:06:24  [ main:204393 ] - [ INFO ]  All spend time is : 3m29s421ms
+2019-04-30 10:06:29  [ main:209373 ] - [ INFO ]  times : 42, spend time is : 4s980ms
+2019-04-30 10:06:29  [ main:209373 ] - [ INFO ]  All spend time is : 3m34s401ms
+2019-04-30 10:06:34  [ main:214404 ] - [ INFO ]  times : 43, spend time is : 5s28ms
+2019-04-30 10:06:34  [ main:214404 ] - [ INFO ]  All spend time is : 3m39s432ms
+2019-04-30 10:06:39  [ main:219385 ] - [ INFO ]  times : 44, spend time is : 4s981ms
+2019-04-30 10:06:39  [ main:219385 ] - [ INFO ]  All spend time is : 3m44s413ms
+2019-04-30 10:06:44  [ main:224365 ] - [ INFO ]  times : 45, spend time is : 4s980ms
+2019-04-30 10:06:44  [ main:224365 ] - [ INFO ]  All spend time is : 3m49s393ms
+2019-04-30 10:06:49  [ main:229390 ] - [ INFO ]  times : 46, spend time is : 5s25ms
+2019-04-30 10:06:49  [ main:229390 ] - [ INFO ]  All spend time is : 3m54s418ms
+2019-04-30 10:06:54  [ main:234373 ] - [ INFO ]  times : 47, spend time is : 4s983ms
+2019-04-30 10:06:54  [ main:234373 ] - [ INFO ]  All spend time is : 3m59s401ms
+2019-04-30 10:06:59  [ main:239352 ] - [ INFO ]  times : 48, spend time is : 4s979ms
+2019-04-30 10:06:59  [ main:239352 ] - [ INFO ]  All spend time is : 4m4s380ms
+2019-04-30 10:07:04  [ main:244330 ] - [ INFO ]  times : 49, spend time is : 4s978ms
+2019-04-30 10:07:04  [ main:244330 ] - [ INFO ]  All spend time is : 4m9s358ms
+2019-04-30 10:07:09  [ main:249309 ] - [ INFO ]  times : 50, spend time is : 4s979ms
+2019-04-30 10:07:09  [ main:249309 ] - [ INFO ]  All spend time is : 4m14s337ms
+2019-04-30 10:07:14  [ main:254313 ] - [ INFO ]  times : 51, spend time is : 5s4ms
+2019-04-30 10:07:14  [ main:254313 ] - [ INFO ]  All spend time is : 4m19s341ms
+2019-04-30 10:07:19  [ main:259294 ] - [ INFO ]  times : 52, spend time is : 4s981ms
+2019-04-30 10:07:19  [ main:259294 ] - [ INFO ]  All spend time is : 4m24s322ms
+2019-04-30 10:07:24  [ main:264274 ] - [ INFO ]  times : 53, spend time is : 4s980ms
+2019-04-30 10:07:24  [ main:264274 ] - [ INFO ]  All spend time is : 4m29s302ms
+2019-04-30 10:07:29  [ main:269278 ] - [ INFO ]  times : 54, spend time is : 5s4ms
+2019-04-30 10:07:29  [ main:269278 ] - [ INFO ]  All spend time is : 4m34s306ms
+2019-04-30 10:07:34  [ main:274258 ] - [ INFO ]  times : 55, spend time is : 4s980ms
+2019-04-30 10:07:34  [ main:274258 ] - [ INFO ]  All spend time is : 4m39s286ms
+2019-04-30 10:07:38  [ main:279237 ] - [ INFO ]  times : 56, spend time is : 4s979ms
+2019-04-30 10:07:38  [ main:279237 ] - [ INFO ]  All spend time is : 4m44s265ms
+2019-04-30 10:07:43  [ main:284223 ] - [ INFO ]  times : 57, spend time is : 4s986ms
+2019-04-30 10:07:43  [ main:284223 ] - [ INFO ]  All spend time is : 4m49s251ms
+2019-04-30 10:07:48  [ main:289206 ] - [ INFO ]  times : 58, spend time is : 4s983ms
+2019-04-30 10:07:48  [ main:289206 ] - [ INFO ]  All spend time is : 4m54s234ms
+2019-04-30 10:07:53  [ main:294188 ] - [ INFO ]  times : 59, spend time is : 4s982ms
+2019-04-30 10:07:53  [ main:294188 ] - [ INFO ]  All spend time is : 4m59s216ms
+2019-04-30 10:07:58  [ main:299169 ] - [ INFO ]  times : 60, spend time is : 4s981ms
+2019-04-30 10:07:58  [ main:299169 ] - [ INFO ]  All spend time is : 5m4s197ms
+2019-04-30 10:08:03  [ main:304150 ] - [ INFO ]  times : 61, spend time is : 4s981ms
+2019-04-30 10:08:03  [ main:304150 ] - [ INFO ]  All spend time is : 5m9s178ms
+2019-04-30 10:08:08  [ main:309131 ] - [ INFO ]  times : 62, spend time is : 4s981ms
+2019-04-30 10:08:08  [ main:309131 ] - [ INFO ]  All spend time is : 5m14s159ms
+2019-04-30 10:08:13  [ main:314114 ] - [ INFO ]  times : 63, spend time is : 4s983ms
+2019-04-30 10:08:13  [ main:314114 ] - [ INFO ]  All spend time is : 5m19s142ms
+2019-04-30 10:08:18  [ main:319096 ] - [ INFO ]  times : 64, spend time is : 4s982ms
+2019-04-30 10:08:18  [ main:319096 ] - [ INFO ]  All spend time is : 5m24s124ms
+2019-04-30 10:08:23  [ main:324075 ] - [ INFO ]  times : 65, spend time is : 4s979ms
+2019-04-30 10:08:23  [ main:324075 ] - [ INFO ]  All spend time is : 5m29s103ms
+2019-04-30 12:12:38  [ main:0 ] - [ INFO ]  times : 0, spend time is : 5s27ms
+2019-04-30 12:12:38  [ main:4 ] - [ INFO ]  All spend time is : 0m5s27ms
+2019-04-30 12:12:43  [ main:4986 ] - [ INFO ]  times : 1, spend time is : 4s981ms
+2019-04-30 12:12:43  [ main:4986 ] - [ INFO ]  All spend time is : 0m10s13ms
+2019-04-30 12:12:48  [ main:9963 ] - [ INFO ]  times : 2, spend time is : 4s977ms
+2019-04-30 12:12:48  [ main:9963 ] - [ INFO ]  All spend time is : 0m14s990ms
+2019-04-30 12:12:53  [ main:14940 ] - [ INFO ]  times : 3, spend time is : 4s977ms
+2019-04-30 12:12:53  [ main:14940 ] - [ INFO ]  All spend time is : 0m19s967ms
+2019-04-30 12:12:58  [ main:19920 ] - [ INFO ]  times : 4, spend time is : 4s979ms
+2019-04-30 12:12:58  [ main:19920 ] - [ INFO ]  All spend time is : 0m24s947ms
+2019-04-30 12:13:03  [ main:24897 ] - [ INFO ]  times : 5, spend time is : 4s977ms
+2019-04-30 12:13:03  [ main:24897 ] - [ INFO ]  All spend time is : 0m29s924ms
+2019-04-30 12:13:08  [ main:29875 ] - [ INFO ]  times : 6, spend time is : 4s978ms
+2019-04-30 12:13:08  [ main:29875 ] - [ INFO ]  All spend time is : 0m34s902ms
+2019-04-30 12:13:13  [ main:34855 ] - [ INFO ]  times : 7, spend time is : 4s980ms
+2019-04-30 12:13:13  [ main:34855 ] - [ INFO ]  All spend time is : 0m39s882ms
+2019-04-30 12:13:18  [ main:39834 ] - [ INFO ]  times : 8, spend time is : 4s979ms
+2019-04-30 12:13:18  [ main:39834 ] - [ INFO ]  All spend time is : 0m44s861ms
+2019-04-30 12:13:23  [ main:44815 ] - [ INFO ]  times : 9, spend time is : 4s981ms
+2019-04-30 12:13:23  [ main:44815 ] - [ INFO ]  All spend time is : 0m49s842ms
+2019-04-30 12:13:28  [ main:49796 ] - [ INFO ]  times : 10, spend time is : 4s981ms
+2019-04-30 12:13:28  [ main:49796 ] - [ INFO ]  All spend time is : 0m54s823ms
+2019-04-30 12:13:33  [ main:54778 ] - [ INFO ]  times : 11, spend time is : 4s982ms
+2019-04-30 12:13:33  [ main:54778 ] - [ INFO ]  All spend time is : 0m59s805ms
+2019-04-30 12:13:38  [ main:59759 ] - [ INFO ]  times : 12, spend time is : 4s981ms
+2019-04-30 12:13:38  [ main:59759 ] - [ INFO ]  All spend time is : 1m4s786ms
+2019-04-30 12:13:43  [ main:64739 ] - [ INFO ]  times : 13, spend time is : 4s980ms
+2019-04-30 12:13:43  [ main:64739 ] - [ INFO ]  All spend time is : 1m9s766ms
+2019-04-30 12:13:48  [ main:69722 ] - [ INFO ]  times : 14, spend time is : 4s983ms
+2019-04-30 12:13:48  [ main:69723 ] - [ INFO ]  All spend time is : 1m14s749ms
+2019-04-30 12:13:53  [ main:74703 ] - [ INFO ]  times : 15, spend time is : 4s980ms
+2019-04-30 12:13:53  [ main:74703 ] - [ INFO ]  All spend time is : 1m19s730ms
+2019-04-30 12:13:58  [ main:79683 ] - [ INFO ]  times : 16, spend time is : 4s980ms
+2019-04-30 12:13:58  [ main:79683 ] - [ INFO ]  All spend time is : 1m24s710ms
+2019-04-30 12:14:02  [ main:84662 ] - [ INFO ]  times : 17, spend time is : 4s979ms
+2019-04-30 12:14:02  [ main:84662 ] - [ INFO ]  All spend time is : 1m29s689ms
+2019-04-30 12:15:18  [ main:0 ] - [ INFO ]  times : 0, spend time is : 5s25ms
+2019-04-30 12:15:18  [ main:4 ] - [ INFO ]  All spend time is : 0m5s25ms
+2019-04-30 12:15:23  [ main:4983 ] - [ INFO ]  times : 1, spend time is : 4s979ms
+2019-04-30 12:15:23  [ main:4983 ] - [ INFO ]  All spend time is : 0m10s8ms
+2019-04-30 12:15:28  [ main:9963 ] - [ INFO ]  times : 2, spend time is : 4s980ms
+2019-04-30 12:15:28  [ main:9963 ] - [ INFO ]  All spend time is : 0m14s988ms
+2019-04-30 12:15:33  [ main:14942 ] - [ INFO ]  times : 3, spend time is : 4s979ms
+2019-04-30 12:15:33  [ main:14942 ] - [ INFO ]  All spend time is : 0m19s967ms
+2019-04-30 12:15:38  [ main:19924 ] - [ INFO ]  times : 4, spend time is : 4s981ms
+2019-04-30 12:15:38  [ main:19924 ] - [ INFO ]  All spend time is : 0m24s949ms
+2019-04-30 12:15:43  [ main:24905 ] - [ INFO ]  times : 5, spend time is : 4s981ms
+2019-04-30 12:15:43  [ main:24905 ] - [ INFO ]  All spend time is : 0m29s930ms
+2019-04-30 12:15:48  [ main:29884 ] - [ INFO ]  times : 6, spend time is : 4s979ms
+2019-04-30 12:15:48  [ main:29884 ] - [ INFO ]  All spend time is : 0m34s909ms
+2019-04-30 12:15:53  [ main:34866 ] - [ INFO ]  times : 7, spend time is : 4s982ms
+2019-04-30 12:15:53  [ main:34866 ] - [ INFO ]  All spend time is : 0m39s891ms
+2019-04-30 12:15:58  [ main:39846 ] - [ INFO ]  times : 8, spend time is : 4s979ms
+2019-04-30 12:15:58  [ main:39846 ] - [ INFO ]  All spend time is : 0m44s871ms
+2019-04-30 12:16:03  [ main:44839 ] - [ INFO ]  times : 9, spend time is : 4s993ms
+2019-04-30 12:16:03  [ main:44839 ] - [ INFO ]  All spend time is : 0m49s864ms
+2019-04-30 12:16:08  [ main:49818 ] - [ INFO ]  times : 10, spend time is : 4s979ms
+2019-04-30 12:16:08  [ main:49818 ] - [ INFO ]  All spend time is : 0m54s843ms
+2019-04-30 12:16:13  [ main:54798 ] - [ INFO ]  times : 11, spend time is : 4s980ms
+2019-04-30 12:16:13  [ main:54798 ] - [ INFO ]  All spend time is : 0m59s823ms
+2019-04-30 12:16:18  [ main:59777 ] - [ INFO ]  times : 12, spend time is : 4s979ms
+2019-04-30 12:16:18  [ main:59777 ] - [ INFO ]  All spend time is : 1m4s802ms
+2019-04-30 12:16:23  [ main:64755 ] - [ INFO ]  times : 13, spend time is : 4s978ms
+2019-04-30 12:16:23  [ main:64755 ] - [ INFO ]  All spend time is : 1m9s780ms
+2019-04-30 12:16:28  [ main:69761 ] - [ INFO ]  times : 14, spend time is : 5s6ms
+2019-04-30 12:16:28  [ main:69762 ] - [ INFO ]  All spend time is : 1m14s786ms
+2019-04-30 12:16:33  [ main:74738 ] - [ INFO ]  times : 15, spend time is : 4s976ms
+2019-04-30 12:16:33  [ main:74738 ] - [ INFO ]  All spend time is : 1m19s763ms
+2019-04-30 12:16:38  [ main:79725 ] - [ INFO ]  times : 16, spend time is : 4s986ms
+2019-04-30 12:16:38  [ main:79725 ] - [ INFO ]  All spend time is : 1m24s750ms
+2019-04-30 12:16:43  [ main:84706 ] - [ INFO ]  times : 17, spend time is : 4s980ms
+2019-04-30 12:16:43  [ main:84706 ] - [ INFO ]  All spend time is : 1m29s731ms
+2019-04-30 12:16:48  [ main:89684 ] - [ INFO ]  times : 18, spend time is : 4s978ms
+2019-04-30 12:16:48  [ main:89684 ] - [ INFO ]  All spend time is : 1m34s709ms
+2019-04-30 12:16:53  [ main:94664 ] - [ INFO ]  times : 19, spend time is : 4s980ms
+2019-04-30 12:16:53  [ main:94664 ] - [ INFO ]  All spend time is : 1m39s689ms
+2019-04-30 12:16:58  [ main:99643 ] - [ INFO ]  times : 20, spend time is : 4s979ms
+2019-04-30 12:16:58  [ main:99643 ] - [ INFO ]  All spend time is : 1m44s668ms
+2019-04-30 12:17:03  [ main:104625 ] - [ INFO ]  times : 21, spend time is : 4s982ms
+2019-04-30 12:17:03  [ main:104625 ] - [ INFO ]  All spend time is : 1m49s650ms
+2019-04-30 12:17:08  [ main:109604 ] - [ INFO ]  times : 22, spend time is : 4s979ms
+2019-04-30 12:17:08  [ main:109604 ] - [ INFO ]  All spend time is : 1m54s629ms
+2019-04-30 12:17:13  [ main:114581 ] - [ INFO ]  times : 23, spend time is : 4s977ms
+2019-04-30 12:17:13  [ main:114581 ] - [ INFO ]  All spend time is : 1m59s606ms
+2019-04-30 12:17:18  [ main:119583 ] - [ INFO ]  times : 24, spend time is : 5s2ms
+2019-04-30 12:17:18  [ main:119583 ] - [ INFO ]  All spend time is : 2m4s608ms
+2019-04-30 12:17:23  [ main:124576 ] - [ INFO ]  times : 25, spend time is : 4s992ms
+2019-04-30 12:17:23  [ main:124576 ] - [ INFO ]  All spend time is : 2m9s601ms
+2019-04-30 12:17:28  [ main:129555 ] - [ INFO ]  times : 26, spend time is : 4s979ms
+2019-04-30 12:17:28  [ main:129555 ] - [ INFO ]  All spend time is : 2m14s580ms
+2019-04-30 12:54:39  [ main:0 ] - [ INFO ]  times : 0, spend time is : 5s72ms
+2019-04-30 12:54:39  [ main:4 ] - [ INFO ]  All spend time is : 0m5s72ms
+2019-04-30 12:54:44  [ main:5035 ] - [ INFO ]  times : 1, spend time is : 5s31ms
+2019-04-30 12:54:44  [ main:5035 ] - [ INFO ]  All spend time is : 0m10s108ms
+2019-04-30 12:54:49  [ main:10066 ] - [ INFO ]  times : 2, spend time is : 5s30ms
+2019-04-30 12:54:49  [ main:10066 ] - [ INFO ]  All spend time is : 0m15s139ms
+2019-04-30 12:54:54  [ main:15190 ] - [ INFO ]  times : 3, spend time is : 5s123ms
+2019-04-30 12:54:54  [ main:15190 ] - [ INFO ]  All spend time is : 0m20s263ms
+2019-04-30 12:55:11  [ main:31883 ] - [ INFO ]  times : 4, spend time is : 16s692ms
+2019-04-30 12:55:11  [ main:31883 ] - [ INFO ]  All spend time is : 0m36s956ms
+2019-04-30 12:55:16  [ main:36915 ] - [ INFO ]  times : 5, spend time is : 5s32ms
+2019-04-30 12:55:16  [ main:36915 ] - [ INFO ]  All spend time is : 0m41s988ms
+2019-04-30 12:55:21  [ main:41948 ] - [ INFO ]  times : 6, spend time is : 5s32ms
+2019-04-30 12:55:21  [ main:41948 ] - [ INFO ]  All spend time is : 0m47s21ms
+2019-04-30 12:55:26  [ main:46977 ] - [ INFO ]  times : 7, spend time is : 5s29ms
+2019-04-30 12:55:26  [ main:46977 ] - [ INFO ]  All spend time is : 0m52s50ms
+2019-04-30 12:55:31  [ main:52008 ] - [ INFO ]  times : 8, spend time is : 5s30ms
+2019-04-30 12:55:31  [ main:52008 ] - [ INFO ]  All spend time is : 0m57s81ms
+2019-04-30 12:55:36  [ main:57037 ] - [ INFO ]  times : 9, spend time is : 5s28ms
+2019-04-30 12:55:36  [ main:57037 ] - [ INFO ]  All spend time is : 1m2s110ms
+2019-04-30 12:55:41  [ main:62069 ] - [ INFO ]  times : 10, spend time is : 5s31ms
+2019-04-30 12:55:41  [ main:62069 ] - [ INFO ]  All spend time is : 1m7s142ms
+2019-04-30 12:55:46  [ main:67102 ] - [ INFO ]  times : 11, spend time is : 5s32ms
+2019-04-30 12:55:46  [ main:67102 ] - [ INFO ]  All spend time is : 1m12s175ms
+2019-04-30 12:55:51  [ main:72133 ] - [ INFO ]  times : 12, spend time is : 5s31ms
+2019-04-30 12:55:51  [ main:72133 ] - [ INFO ]  All spend time is : 1m17s206ms
+2019-04-30 12:55:56  [ main:77165 ] - [ INFO ]  times : 13, spend time is : 5s32ms
+2019-04-30 12:55:56  [ main:77165 ] - [ INFO ]  All spend time is : 1m22s238ms
+2019-04-30 12:56:01  [ main:82202 ] - [ INFO ]  times : 14, spend time is : 5s36ms
+2019-04-30 12:56:01  [ main:82203 ] - [ INFO ]  All spend time is : 1m27s275ms
+2019-04-30 12:56:06  [ main:87234 ] - [ INFO ]  times : 15, spend time is : 5s31ms
+2019-04-30 12:56:06  [ main:87234 ] - [ INFO ]  All spend time is : 1m32s307ms
+2019-04-30 12:56:11  [ main:92265 ] - [ INFO ]  times : 16, spend time is : 5s31ms
+2019-04-30 12:56:11  [ main:92265 ] - [ INFO ]  All spend time is : 1m37s338ms
+2019-04-30 12:56:16  [ main:97303 ] - [ INFO ]  times : 17, spend time is : 5s38ms
+2019-04-30 12:56:16  [ main:97303 ] - [ INFO ]  All spend time is : 1m42s376ms
+2019-04-30 12:56:21  [ main:102335 ] - [ INFO ]  times : 18, spend time is : 5s32ms
+2019-04-30 12:56:21  [ main:102335 ] - [ INFO ]  All spend time is : 1m47s408ms
+2019-04-30 12:56:26  [ main:107365 ] - [ INFO ]  times : 19, spend time is : 5s29ms
+2019-04-30 12:56:26  [ main:107365 ] - [ INFO ]  All spend time is : 1m52s438ms
+2019-04-30 12:56:31  [ main:112395 ] - [ INFO ]  times : 20, spend time is : 5s30ms
+2019-04-30 12:56:31  [ main:112395 ] - [ INFO ]  All spend time is : 1m57s468ms
+2019-04-30 12:56:36  [ main:117426 ] - [ INFO ]  times : 21, spend time is : 5s31ms
+2019-04-30 12:56:36  [ main:117426 ] - [ INFO ]  All spend time is : 2m2s499ms
+2019-04-30 12:56:41  [ main:122458 ] - [ INFO ]  times : 22, spend time is : 5s32ms
+2019-04-30 12:56:41  [ main:122459 ] - [ INFO ]  All spend time is : 2m7s531ms
+2019-04-30 12:56:46  [ main:127487 ] - [ INFO ]  times : 23, spend time is : 5s28ms
+2019-04-30 12:56:46  [ main:127487 ] - [ INFO ]  All spend time is : 2m12s560ms
+2019-04-30 12:56:51  [ main:132519 ] - [ INFO ]  times : 24, spend time is : 5s32ms
+2019-04-30 12:56:51  [ main:132519 ] - [ INFO ]  All spend time is : 2m17s592ms
+2019-04-30 12:56:56  [ main:137547 ] - [ INFO ]  times : 25, spend time is : 5s28ms
+2019-04-30 12:56:56  [ main:137547 ] - [ INFO ]  All spend time is : 2m22s620ms
+2019-04-30 12:57:01  [ main:142577 ] - [ INFO ]  times : 26, spend time is : 5s29ms
+2019-04-30 12:57:01  [ main:142577 ] - [ INFO ]  All spend time is : 2m27s650ms
+2019-04-30 12:57:06  [ main:147609 ] - [ INFO ]  times : 27, spend time is : 5s32ms
+2019-04-30 12:57:06  [ main:147609 ] - [ INFO ]  All spend time is : 2m32s682ms
+2019-04-30 12:57:12  [ main:152642 ] - [ INFO ]  times : 28, spend time is : 5s33ms
+2019-04-30 12:57:12  [ main:152642 ] - [ INFO ]  All spend time is : 2m37s715ms
+2019-04-30 12:57:17  [ main:157670 ] - [ INFO ]  times : 29, spend time is : 5s28ms
+2019-04-30 12:57:17  [ main:157670 ] - [ INFO ]  All spend time is : 2m42s743ms
+2019-04-30 12:57:22  [ main:162701 ] - [ INFO ]  times : 30, spend time is : 5s31ms
+2019-04-30 12:57:22  [ main:162701 ] - [ INFO ]  All spend time is : 2m47s774ms
+2019-04-30 12:57:27  [ main:167731 ] - [ INFO ]  times : 31, spend time is : 5s30ms
+2019-04-30 12:57:27  [ main:167731 ] - [ INFO ]  All spend time is : 2m52s804ms
+2019-04-30 12:57:32  [ main:172763 ] - [ INFO ]  times : 32, spend time is : 5s31ms
+2019-04-30 12:57:32  [ main:172763 ] - [ INFO ]  All spend time is : 2m57s836ms
+2019-04-30 12:57:37  [ main:177793 ] - [ INFO ]  times : 33, spend time is : 5s30ms
+2019-04-30 12:57:37  [ main:177793 ] - [ INFO ]  All spend time is : 3m2s866ms
+2019-04-30 13:09:31  [ main:0 ] - [ INFO ]  times : 1, spend time is : 5s90ms
+2019-04-30 13:09:31  [ main:3 ] - [ INFO ]  All spend time is : 0m5s90ms
+2019-04-30 13:10:02  [ main:0 ] - [ INFO ]  times : 1, spend time is : 5s66ms
+2019-04-30 13:10:02  [ main:4 ] - [ INFO ]  All spend time is : 0m5s66ms
+2019-04-30 13:10:07  [ main:5037 ] - [ INFO ]  times : 2, spend time is : 5s33ms
+2019-04-30 13:10:07  [ main:5037 ] - [ INFO ]  All spend time is : 0m10s103ms
+2019-04-30 13:10:12  [ main:10069 ] - [ INFO ]  times : 3, spend time is : 5s32ms
+2019-04-30 13:10:12  [ main:10069 ] - [ INFO ]  All spend time is : 0m15s135ms
+2019-04-30 13:10:17  [ main:15102 ] - [ INFO ]  times : 4, spend time is : 5s32ms
+2019-04-30 13:10:17  [ main:15103 ] - [ INFO ]  All spend time is : 0m20s168ms
+2019-04-30 13:10:22  [ main:20150 ] - [ INFO ]  times : 5, spend time is : 5s47ms
+2019-04-30 13:10:22  [ main:20150 ] - [ INFO ]  All spend time is : 0m25s216ms
+2019-04-30 13:10:27  [ main:25180 ] - [ INFO ]  times : 6, spend time is : 5s30ms
+2019-04-30 13:10:27  [ main:25180 ] - [ INFO ]  All spend time is : 0m30s246ms
+2019-04-30 13:10:32  [ main:30211 ] - [ INFO ]  times : 7, spend time is : 5s31ms
+2019-04-30 13:10:32  [ main:30211 ] - [ INFO ]  All spend time is : 0m35s277ms
+2019-04-30 13:10:37  [ main:35248 ] - [ INFO ]  times : 8, spend time is : 5s36ms
+2019-04-30 13:10:37  [ main:35248 ] - [ INFO ]  All spend time is : 0m40s314ms
+2019-04-30 13:10:42  [ main:40277 ] - [ INFO ]  times : 9, spend time is : 5s29ms
+2019-04-30 13:10:42  [ main:40277 ] - [ INFO ]  All spend time is : 0m45s343ms
+2019-04-30 13:10:47  [ main:45309 ] - [ INFO ]  times : 10, spend time is : 5s31ms
+2019-04-30 13:10:47  [ main:45309 ] - [ INFO ]  All spend time is : 0m50s375ms
+2019-04-30 13:10:52  [ main:50340 ] - [ INFO ]  times : 11, spend time is : 5s31ms
+2019-04-30 13:10:52  [ main:50340 ] - [ INFO ]  All spend time is : 0m55s406ms
+2019-04-30 13:10:57  [ main:55372 ] - [ INFO ]  times : 12, spend time is : 5s31ms
+2019-04-30 13:10:57  [ main:55372 ] - [ INFO ]  All spend time is : 1m0s438ms
+2019-04-30 13:11:02  [ main:60403 ] - [ INFO ]  times : 13, spend time is : 5s30ms
+2019-04-30 13:11:02  [ main:60403 ] - [ INFO ]  All spend time is : 1m5s469ms
+2019-04-30 13:11:07  [ main:65435 ] - [ INFO ]  times : 14, spend time is : 5s32ms
+2019-04-30 13:11:07  [ main:65435 ] - [ INFO ]  All spend time is : 1m10s501ms
+2019-04-30 13:11:12  [ main:70468 ] - [ INFO ]  times : 15, spend time is : 5s33ms
+2019-04-30 13:11:12  [ main:70468 ] - [ INFO ]  All spend time is : 1m15s534ms
+2019-04-30 13:11:17  [ main:75499 ] - [ INFO ]  times : 16, spend time is : 5s31ms
+2019-04-30 13:11:17  [ main:75499 ] - [ INFO ]  All spend time is : 1m20s565ms
+2019-04-30 13:11:22  [ main:80557 ] - [ INFO ]  times : 17, spend time is : 5s58ms
+2019-04-30 13:11:22  [ main:80557 ] - [ INFO ]  All spend time is : 1m25s623ms
+2019-04-30 13:11:27  [ main:85586 ] - [ INFO ]  times : 18, spend time is : 5s29ms
+2019-04-30 13:11:27  [ main:85586 ] - [ INFO ]  All spend time is : 1m30s652ms
+2019-04-30 13:11:32  [ main:90619 ] - [ INFO ]  times : 19, spend time is : 5s32ms
+2019-04-30 13:11:32  [ main:90619 ] - [ INFO ]  All spend time is : 1m35s685ms
+2019-04-30 13:11:37  [ main:95649 ] - [ INFO ]  times : 20, spend time is : 5s30ms
+2019-04-30 13:11:37  [ main:95649 ] - [ INFO ]  All spend time is : 1m40s715ms
+2019-04-30 13:11:42  [ main:100677 ] - [ INFO ]  times : 21, spend time is : 5s27ms
+2019-04-30 13:11:42  [ main:100677 ] - [ INFO ]  All spend time is : 1m45s743ms
+2019-04-30 13:11:47  [ main:105707 ] - [ INFO ]  times : 22, spend time is : 5s29ms
+2019-04-30 13:11:47  [ main:105707 ] - [ INFO ]  All spend time is : 1m50s773ms
+2019-04-30 13:11:52  [ main:110737 ] - [ INFO ]  times : 23, spend time is : 5s30ms
+2019-04-30 13:11:52  [ main:110737 ] - [ INFO ]  All spend time is : 1m55s803ms
+2019-04-30 13:11:57  [ main:115766 ] - [ INFO ]  times : 24, spend time is : 5s29ms
+2019-04-30 13:11:57  [ main:115766 ] - [ INFO ]  All spend time is : 2m0s832ms
+2019-04-30 13:12:02  [ main:120798 ] - [ INFO ]  times : 25, spend time is : 5s32ms
+2019-04-30 13:12:02  [ main:120798 ] - [ INFO ]  All spend time is : 2m5s864ms
+2019-04-30 13:12:08  [ main:125847 ] - [ INFO ]  times : 26, spend time is : 5s49ms
+2019-04-30 13:12:08  [ main:125847 ] - [ INFO ]  All spend time is : 2m10s913ms
+2019-04-30 13:12:13  [ main:130875 ] - [ INFO ]  times : 27, spend time is : 5s28ms
+2019-04-30 13:12:13  [ main:130875 ] - [ INFO ]  All spend time is : 2m15s941ms
+2019-04-30 13:12:18  [ main:135918 ] - [ INFO ]  times : 28, spend time is : 5s42ms
+2019-04-30 13:12:18  [ main:135918 ] - [ INFO ]  All spend time is : 2m20s984ms
+2019-04-30 13:12:23  [ main:140971 ] - [ INFO ]  times : 29, spend time is : 5s52ms
+2019-04-30 13:12:23  [ main:140971 ] - [ INFO ]  All spend time is : 2m26s37ms
+2019-04-30 13:12:28  [ main:146024 ] - [ INFO ]  times : 30, spend time is : 5s52ms
+2019-04-30 13:12:28  [ main:146024 ] - [ INFO ]  All spend time is : 2m31s90ms
+2019-04-30 13:12:33  [ main:151078 ] - [ INFO ]  times : 31, spend time is : 5s54ms
+2019-04-30 13:12:33  [ main:151078 ] - [ INFO ]  All spend time is : 2m36s144ms
+2019-04-30 13:12:38  [ main:156112 ] - [ INFO ]  times : 32, spend time is : 5s34ms
+2019-04-30 13:12:38  [ main:156112 ] - [ INFO ]  All spend time is : 2m41s178ms
+2019-04-30 13:12:43  [ main:161142 ] - [ INFO ]  times : 33, spend time is : 5s30ms
+2019-04-30 13:12:43  [ main:161142 ] - [ INFO ]  All spend time is : 2m46s208ms
+2019-04-30 13:12:48  [ main:166172 ] - [ INFO ]  times : 34, spend time is : 5s29ms
+2019-04-30 13:12:48  [ main:166172 ] - [ INFO ]  All spend time is : 2m51s238ms
+2019-04-30 13:12:53  [ main:171205 ] - [ INFO ]  times : 35, spend time is : 5s32ms
+2019-04-30 13:12:53  [ main:171205 ] - [ INFO ]  All spend time is : 2m56s271ms
+2019-04-30 13:12:58  [ main:176236 ] - [ INFO ]  times : 36, spend time is : 5s31ms
+2019-04-30 13:12:58  [ main:176236 ] - [ INFO ]  All spend time is : 3m1s302ms
+2019-04-30 13:13:03  [ main:181291 ] - [ INFO ]  times : 37, spend time is : 5s55ms
+2019-04-30 13:13:03  [ main:181291 ] - [ INFO ]  All spend time is : 3m6s357ms
+2019-04-30 13:13:08  [ main:186319 ] - [ INFO ]  times : 38, spend time is : 5s28ms
+2019-04-30 13:13:08  [ main:186319 ] - [ INFO ]  All spend time is : 3m11s385ms
+2019-04-30 17:54:15  [ main:0 ] - [ INFO ]  times : 1, spend time is : 5s204ms
+2019-04-30 17:54:15  [ main:31 ] - [ INFO ]  All spend time is : 0m5s204ms
+2019-04-30 17:54:20  [ main:5225 ] - [ INFO ]  times : 2, spend time is : 5s193ms
+2019-04-30 17:54:20  [ main:5225 ] - [ INFO ]  All spend time is : 0m10s428ms
+2019-04-30 17:54:25  [ main:10262 ] - [ INFO ]  times : 3, spend time is : 5s37ms
+2019-04-30 17:54:25  [ main:10262 ] - [ INFO ]  All spend time is : 0m15s466ms
+2019-04-30 17:54:30  [ main:15296 ] - [ INFO ]  times : 4, spend time is : 5s33ms
+2019-04-30 17:54:30  [ main:15296 ] - [ INFO ]  All spend time is : 0m20s500ms
+2019-04-30 17:54:35  [ main:20353 ] - [ INFO ]  times : 5, spend time is : 5s56ms
+2019-04-30 17:54:35  [ main:20353 ] - [ INFO ]  All spend time is : 0m25s557ms
+2019-04-30 17:54:40  [ main:25384 ] - [ INFO ]  times : 6, spend time is : 5s31ms
+2019-04-30 17:54:40  [ main:25385 ] - [ INFO ]  All spend time is : 0m30s588ms
+2019-04-30 17:54:45  [ main:30415 ] - [ INFO ]  times : 7, spend time is : 5s30ms
+2019-04-30 17:54:45  [ main:30415 ] - [ INFO ]  All spend time is : 0m35s619ms
+2019-04-30 17:54:50  [ main:35447 ] - [ INFO ]  times : 8, spend time is : 5s31ms
+2019-04-30 17:54:50  [ main:35447 ] - [ INFO ]  All spend time is : 0m40s651ms
+2019-04-30 17:54:55  [ main:40478 ] - [ INFO ]  times : 9, spend time is : 5s31ms
+2019-04-30 17:54:55  [ main:40478 ] - [ INFO ]  All spend time is : 0m45s682ms
+2019-04-30 17:55:00  [ main:45513 ] - [ INFO ]  times : 10, spend time is : 5s34ms
+2019-04-30 17:55:00  [ main:45513 ] - [ INFO ]  All spend time is : 0m50s717ms
+2019-04-30 17:55:05  [ main:50545 ] - [ INFO ]  times : 11, spend time is : 5s32ms
+2019-04-30 17:55:05  [ main:50545 ] - [ INFO ]  All spend time is : 0m55s749ms
+2019-04-30 17:55:10  [ main:55581 ] - [ INFO ]  times : 12, spend time is : 5s35ms
+2019-04-30 17:55:10  [ main:55581 ] - [ INFO ]  All spend time is : 1m0s785ms
+2019-04-30 17:55:15  [ main:60612 ] - [ INFO ]  times : 13, spend time is : 5s31ms
+2019-04-30 17:55:15  [ main:60612 ] - [ INFO ]  All spend time is : 1m5s816ms
+2019-04-30 17:55:20  [ main:65671 ] - [ INFO ]  times : 14, spend time is : 5s58ms
+2019-04-30 17:55:20  [ main:65671 ] - [ INFO ]  All spend time is : 1m10s875ms
+2019-04-30 17:55:26  [ main:70706 ] - [ INFO ]  times : 15, spend time is : 5s34ms
+2019-04-30 17:55:26  [ main:70706 ] - [ INFO ]  All spend time is : 1m15s910ms
+2019-04-30 17:55:31  [ main:75738 ] - [ INFO ]  times : 16, spend time is : 5s32ms
+2019-04-30 17:55:31  [ main:75738 ] - [ INFO ]  All spend time is : 1m20s942ms
+2019-04-30 17:55:36  [ main:80768 ] - [ INFO ]  times : 17, spend time is : 5s30ms
+2019-04-30 17:55:36  [ main:80768 ] - [ INFO ]  All spend time is : 1m25s972ms
+2019-04-30 17:55:41  [ main:85802 ] - [ INFO ]  times : 18, spend time is : 5s34ms
+2019-04-30 17:55:41  [ main:85802 ] - [ INFO ]  All spend time is : 1m31s6ms
+2019-04-30 17:55:46  [ main:90834 ] - [ INFO ]  times : 19, spend time is : 5s31ms
+2019-04-30 17:55:46  [ main:90834 ] - [ INFO ]  All spend time is : 1m36s38ms
+2019-04-30 17:55:51  [ main:95867 ] - [ INFO ]  times : 20, spend time is : 5s33ms
+2019-04-30 17:55:51  [ main:95867 ] - [ INFO ]  All spend time is : 1m41s71ms
+2019-04-30 17:55:56  [ main:100902 ] - [ INFO ]  times : 21, spend time is : 5s35ms
+2019-04-30 17:55:56  [ main:100902 ] - [ INFO ]  All spend time is : 1m46s106ms
+2019-04-30 17:56:01  [ main:105934 ] - [ INFO ]  times : 22, spend time is : 5s31ms
+2019-04-30 17:56:01  [ main:105934 ] - [ INFO ]  All spend time is : 1m51s138ms
+2019-04-30 17:56:06  [ main:110968 ] - [ INFO ]  times : 23, spend time is : 5s33ms
+2019-04-30 17:56:06  [ main:110968 ] - [ INFO ]  All spend time is : 1m56s172ms
+2019-04-30 17:56:11  [ main:116001 ] - [ INFO ]  times : 24, spend time is : 5s33ms
+2019-04-30 17:56:11  [ main:116001 ] - [ INFO ]  All spend time is : 2m1s205ms
+2019-04-30 17:56:16  [ main:121034 ] - [ INFO ]  times : 25, spend time is : 5s33ms
+2019-04-30 17:56:16  [ main:121034 ] - [ INFO ]  All spend time is : 2m6s238ms
+2019-04-30 17:56:21  [ main:126066 ] - [ INFO ]  times : 26, spend time is : 5s31ms
+2019-04-30 17:56:21  [ main:126066 ] - [ INFO ]  All spend time is : 2m11s270ms
+2019-04-30 17:56:26  [ main:131103 ] - [ INFO ]  times : 27, spend time is : 5s36ms
+2019-04-30 17:56:26  [ main:131103 ] - [ INFO ]  All spend time is : 2m16s307ms
+2019-04-30 17:56:31  [ main:136136 ] - [ INFO ]  times : 28, spend time is : 5s32ms
+2019-04-30 17:56:31  [ main:136136 ] - [ INFO ]  All spend time is : 2m21s340ms
+2019-04-30 17:56:36  [ main:141167 ] - [ INFO ]  times : 29, spend time is : 5s31ms
+2019-04-30 17:56:36  [ main:141167 ] - [ INFO ]  All spend time is : 2m26s371ms
+2019-04-30 17:56:41  [ main:146201 ] - [ INFO ]  times : 30, spend time is : 5s34ms
+2019-04-30 17:56:41  [ main:146201 ] - [ INFO ]  All spend time is : 2m31s405ms
+2019-04-30 17:56:46  [ main:151236 ] - [ INFO ]  times : 31, spend time is : 5s34ms
+2019-04-30 17:56:46  [ main:151236 ] - [ INFO ]  All spend time is : 2m36s440ms
+2019-04-30 17:56:51  [ main:156270 ] - [ INFO ]  times : 32, spend time is : 5s34ms
+2019-04-30 17:56:51  [ main:156270 ] - [ INFO ]  All spend time is : 2m41s474ms
+2019-04-30 17:56:56  [ main:161300 ] - [ INFO ]  times : 33, spend time is : 5s30ms
+2019-04-30 17:56:56  [ main:161300 ] - [ INFO ]  All spend time is : 2m46s504ms
+2019-04-30 17:57:01  [ main:166335 ] - [ INFO ]  times : 34, spend time is : 5s34ms
+2019-04-30 17:57:01  [ main:166335 ] - [ INFO ]  All spend time is : 2m51s539ms
+2019-04-30 17:57:06  [ main:171367 ] - [ INFO ]  times : 35, spend time is : 5s31ms
+2019-04-30 17:57:06  [ main:171367 ] - [ INFO ]  All spend time is : 2m56s571ms
+2019-04-30 17:57:11  [ main:176399 ] - [ INFO ]  times : 36, spend time is : 5s32ms
+2019-04-30 17:57:11  [ main:176399 ] - [ INFO ]  All spend time is : 3m1s603ms
+2019-04-30 17:57:16  [ main:181432 ] - [ INFO ]  times : 37, spend time is : 5s32ms
+2019-04-30 17:57:16  [ main:181432 ] - [ INFO ]  All spend time is : 3m6s636ms
+2019-04-30 17:57:21  [ main:186464 ] - [ INFO ]  times : 38, spend time is : 5s32ms
+2019-04-30 17:57:21  [ main:186464 ] - [ INFO ]  All spend time is : 3m11s668ms
+2019-04-30 17:57:57  [ main:0 ] - [ INFO ]  times : 1, spend time is : 3s963ms
+2019-04-30 17:57:57  [ main:4 ] - [ INFO ]  All spend time is : 0m3s963ms
+2019-04-30 17:58:00  [ main:3934 ] - [ INFO ]  times : 2, spend time is : 3s930ms
+2019-04-30 17:58:00  [ main:3934 ] - [ INFO ]  All spend time is : 0m7s897ms
+2019-04-30 17:58:04  [ main:7867 ] - [ INFO ]  times : 3, spend time is : 3s933ms
+2019-04-30 17:58:04  [ main:7867 ] - [ INFO ]  All spend time is : 0m11s830ms
+2019-04-30 17:58:08  [ main:11816 ] - [ INFO ]  times : 4, spend time is : 3s948ms
+2019-04-30 17:58:08  [ main:11816 ] - [ INFO ]  All spend time is : 0m15s779ms
+2019-04-30 17:58:12  [ main:15750 ] - [ INFO ]  times : 5, spend time is : 3s934ms
+2019-04-30 17:58:12  [ main:15750 ] - [ INFO ]  All spend time is : 0m19s713ms
+2019-04-30 18:16:41  [ main:0 ] - [ INFO ]  times : 1, spend time is : 4s988ms
+2019-04-30 18:16:41  [ main:4 ] - [ INFO ]  All spend time is : 0m4s988ms
+2019-04-30 18:16:46  [ main:4935 ] - [ INFO ]  times : 2, spend time is : 4s931ms
+2019-04-30 18:16:46  [ main:4935 ] - [ INFO ]  All spend time is : 0m9s924ms
+2019-04-30 18:16:51  [ main:9866 ] - [ INFO ]  times : 3, spend time is : 4s930ms
+2019-04-30 18:16:51  [ main:9866 ] - [ INFO ]  All spend time is : 0m14s855ms
+2019-04-30 18:16:56  [ main:14798 ] - [ INFO ]  times : 4, spend time is : 4s931ms
+2019-04-30 18:16:56  [ main:14798 ] - [ INFO ]  All spend time is : 0m19s787ms
+2019-04-30 18:17:00  [ main:19727 ] - [ INFO ]  times : 5, spend time is : 4s928ms
+2019-04-30 18:17:00  [ main:19727 ] - [ INFO ]  All spend time is : 0m24s716ms
+2019-04-30 18:17:05  [ main:24659 ] - [ INFO ]  times : 6, spend time is : 4s931ms
+2019-04-30 18:17:05  [ main:24659 ] - [ INFO ]  All spend time is : 0m29s648ms
+2019-04-30 18:17:10  [ main:29589 ] - [ INFO ]  times : 7, spend time is : 4s929ms
+2019-04-30 18:17:10  [ main:29589 ] - [ INFO ]  All spend time is : 0m34s578ms
+2019-04-30 18:17:15  [ main:34534 ] - [ INFO ]  times : 8, spend time is : 4s944ms
+2019-04-30 18:17:15  [ main:34534 ] - [ INFO ]  All spend time is : 0m39s523ms
+2019-04-30 18:17:20  [ main:39464 ] - [ INFO ]  times : 9, spend time is : 4s930ms
+2019-04-30 18:17:20  [ main:39465 ] - [ INFO ]  All spend time is : 0m44s453ms
+2019-04-30 18:17:25  [ main:44396 ] - [ INFO ]  times : 10, spend time is : 4s931ms
+2019-04-30 18:17:25  [ main:44396 ] - [ INFO ]  All spend time is : 0m49s385ms
+2019-04-30 18:17:30  [ main:49327 ] - [ INFO ]  times : 11, spend time is : 4s930ms
+2019-04-30 18:17:30  [ main:49327 ] - [ INFO ]  All spend time is : 0m54s316ms
+2019-04-30 18:17:35  [ main:54257 ] - [ INFO ]  times : 12, spend time is : 4s930ms
+2019-04-30 18:17:35  [ main:54257 ] - [ INFO ]  All spend time is : 0m59s246ms
+2019-04-30 18:17:40  [ main:59188 ] - [ INFO ]  times : 13, spend time is : 4s930ms
+2019-04-30 18:17:40  [ main:59188 ] - [ INFO ]  All spend time is : 1m4s177ms
+2019-04-30 18:17:45  [ main:64119 ] - [ INFO ]  times : 14, spend time is : 4s930ms
+2019-04-30 18:17:45  [ main:64119 ] - [ INFO ]  All spend time is : 1m9s108ms
+2019-04-30 18:17:50  [ main:69053 ] - [ INFO ]  times : 15, spend time is : 4s934ms
+2019-04-30 18:17:50  [ main:69053 ] - [ INFO ]  All spend time is : 1m14s42ms
+2019-04-30 18:17:55  [ main:74025 ] - [ INFO ]  times : 16, spend time is : 4s971ms
+2019-04-30 18:17:55  [ main:74025 ] - [ INFO ]  All spend time is : 1m19s14ms
+2019-04-30 18:18:08  [ main:0 ] - [ INFO ]  times : 1, spend time is : 4s986ms
+2019-04-30 18:18:08  [ main:4 ] - [ INFO ]  All spend time is : 0m4s986ms
+2019-04-30 18:18:13  [ main:4932 ] - [ INFO ]  times : 2, spend time is : 4s928ms
+2019-04-30 18:18:13  [ main:4932 ] - [ INFO ]  All spend time is : 0m9s919ms
+2019-04-30 18:18:18  [ main:9863 ] - [ INFO ]  times : 3, spend time is : 4s930ms
+2019-04-30 18:18:18  [ main:9863 ] - [ INFO ]  All spend time is : 0m14s850ms
+2019-04-30 18:18:23  [ main:14795 ] - [ INFO ]  times : 4, spend time is : 4s932ms
+2019-04-30 18:18:23  [ main:14796 ] - [ INFO ]  All spend time is : 0m19s782ms
+2019-04-30 18:18:28  [ main:19727 ] - [ INFO ]  times : 5, spend time is : 4s931ms
+2019-04-30 18:18:28  [ main:19728 ] - [ INFO ]  All spend time is : 0m24s714ms
+2019-04-30 18:18:33  [ main:24660 ] - [ INFO ]  times : 6, spend time is : 4s932ms
+2019-04-30 18:18:33  [ main:24660 ] - [ INFO ]  All spend time is : 0m29s647ms
+2019-04-30 18:18:38  [ main:29603 ] - [ INFO ]  times : 7, spend time is : 4s942ms
+2019-04-30 18:18:38  [ main:29604 ] - [ INFO ]  All spend time is : 0m34s590ms
+2019-04-30 18:18:42  [ main:34547 ] - [ INFO ]  times : 8, spend time is : 4s943ms
+2019-04-30 18:18:42  [ main:34547 ] - [ INFO ]  All spend time is : 0m39s534ms
+2019-04-30 18:18:47  [ main:39495 ] - [ INFO ]  times : 9, spend time is : 4s947ms
+2019-04-30 18:18:47  [ main:39497 ] - [ INFO ]  All spend time is : 0m44s482ms
+2019-04-30 18:18:52  [ main:44433 ] - [ INFO ]  times : 10, spend time is : 4s936ms
+2019-04-30 18:18:52  [ main:44433 ] - [ INFO ]  All spend time is : 0m49s420ms
+2019-04-30 18:18:57  [ main:49426 ] - [ INFO ]  times : 11, spend time is : 4s993ms
+2019-04-30 18:18:57  [ main:49426 ] - [ INFO ]  All spend time is : 0m54s413ms
+2019-04-30 18:19:02  [ main:54510 ] - [ INFO ]  times : 12, spend time is : 5s84ms
+2019-04-30 18:19:02  [ main:54510 ] - [ INFO ]  All spend time is : 0m59s497ms
+2019-04-30 18:19:07  [ main:59486 ] - [ INFO ]  times : 13, spend time is : 4s976ms
+2019-04-30 18:19:07  [ main:59486 ] - [ INFO ]  All spend time is : 1m4s473ms
+2019-04-30 18:19:12  [ main:64433 ] - [ INFO ]  times : 14, spend time is : 4s947ms
+2019-04-30 18:19:12  [ main:64433 ] - [ INFO ]  All spend time is : 1m9s420ms
+2019-04-30 18:19:17  [ main:69432 ] - [ INFO ]  times : 15, spend time is : 4s999ms
+2019-04-30 18:19:17  [ main:69433 ] - [ INFO ]  All spend time is : 1m14s419ms
+2019-04-30 18:19:22  [ main:74381 ] - [ INFO ]  times : 16, spend time is : 4s948ms
+2019-04-30 18:19:22  [ main:74382 ] - [ INFO ]  All spend time is : 1m19s368ms
+2019-04-30 18:19:27  [ main:79314 ] - [ INFO ]  times : 17, spend time is : 4s932ms
+2019-04-30 18:19:27  [ main:79314 ] - [ INFO ]  All spend time is : 1m24s301ms
+2019-04-30 18:19:32  [ main:84250 ] - [ INFO ]  times : 18, spend time is : 4s935ms
+2019-04-30 18:19:32  [ main:84251 ] - [ INFO ]  All spend time is : 1m29s237ms
+2019-04-30 18:19:37  [ main:89203 ] - [ INFO ]  times : 19, spend time is : 4s952ms
+2019-04-30 18:19:37  [ main:89204 ] - [ INFO ]  All spend time is : 1m34s190ms
+2019-04-30 18:19:42  [ main:94184 ] - [ INFO ]  times : 20, spend time is : 4s980ms
+2019-04-30 18:19:42  [ main:94184 ] - [ INFO ]  All spend time is : 1m39s171ms
+2019-04-30 18:19:47  [ main:99117 ] - [ INFO ]  times : 21, spend time is : 4s933ms
+2019-04-30 18:19:47  [ main:99117 ] - [ INFO ]  All spend time is : 1m44s104ms
+2019-04-30 18:19:52  [ main:104048 ] - [ INFO ]  times : 22, spend time is : 4s931ms
+2019-04-30 18:19:52  [ main:104048 ] - [ INFO ]  All spend time is : 1m49s35ms
+2019-04-30 18:19:57  [ main:108983 ] - [ INFO ]  times : 23, spend time is : 4s935ms
+2019-04-30 18:19:57  [ main:108983 ] - [ INFO ]  All spend time is : 1m53s970ms
+2019-04-30 18:20:02  [ main:113915 ] - [ INFO ]  times : 24, spend time is : 4s932ms
+2019-04-30 18:20:02  [ main:113915 ] - [ INFO ]  All spend time is : 1m58s902ms
+2019-04-30 18:20:07  [ main:118874 ] - [ INFO ]  times : 25, spend time is : 4s958ms
+2019-04-30 18:20:07  [ main:118874 ] - [ INFO ]  All spend time is : 2m3s861ms
+2019-04-30 18:20:12  [ main:123807 ] - [ INFO ]  times : 26, spend time is : 4s932ms
+2019-04-30 18:20:12  [ main:123807 ] - [ INFO ]  All spend time is : 2m8s794ms
+2019-04-30 18:20:17  [ main:128742 ] - [ INFO ]  times : 27, spend time is : 4s935ms
+2019-04-30 18:20:17  [ main:128742 ] - [ INFO ]  All spend time is : 2m13s729ms
+2019-04-30 18:20:22  [ main:133673 ] - [ INFO ]  times : 28, spend time is : 4s930ms
+2019-04-30 18:20:22  [ main:133673 ] - [ INFO ]  All spend time is : 2m18s660ms
+2019-04-30 18:20:27  [ main:138613 ] - [ INFO ]  times : 29, spend time is : 4s940ms
+2019-04-30 18:20:27  [ main:138613 ] - [ INFO ]  All spend time is : 2m23s600ms
+2019-04-30 18:20:31  [ main:143546 ] - [ INFO ]  times : 30, spend time is : 4s932ms
+2019-04-30 18:20:31  [ main:143546 ] - [ INFO ]  All spend time is : 2m28s533ms
+2019-04-30 18:20:36  [ main:148478 ] - [ INFO ]  times : 31, spend time is : 4s932ms
+2019-04-30 18:20:36  [ main:148478 ] - [ INFO ]  All spend time is : 2m33s465ms
+2019-04-30 18:20:41  [ main:153414 ] - [ INFO ]  times : 32, spend time is : 4s936ms
+2019-04-30 18:20:41  [ main:153414 ] - [ INFO ]  All spend time is : 2m38s401ms
+2019-04-30 18:20:46  [ main:158345 ] - [ INFO ]  times : 33, spend time is : 4s931ms
+2019-04-30 18:20:46  [ main:158345 ] - [ INFO ]  All spend time is : 2m43s332ms
+2019-04-30 18:20:51  [ main:163277 ] - [ INFO ]  times : 34, spend time is : 4s931ms
+2019-04-30 18:20:51  [ main:163277 ] - [ INFO ]  All spend time is : 2m48s264ms
+2019-04-30 18:20:56  [ main:168210 ] - [ INFO ]  times : 35, spend time is : 4s932ms
+2019-04-30 18:20:56  [ main:168210 ] - [ INFO ]  All spend time is : 2m53s197ms
+2019-04-30 18:21:01  [ main:173144 ] - [ INFO ]  times : 36, spend time is : 4s934ms
+2019-04-30 18:21:01  [ main:173144 ] - [ INFO ]  All spend time is : 2m58s131ms
+2019-04-30 18:21:06  [ main:178078 ] - [ INFO ]  times : 37, spend time is : 4s933ms
+2019-04-30 18:21:06  [ main:178078 ] - [ INFO ]  All spend time is : 3m3s65ms
+2019-04-30 18:21:11  [ main:183014 ] - [ INFO ]  times : 38, spend time is : 4s935ms
+2019-04-30 18:21:11  [ main:183014 ] - [ INFO ]  All spend time is : 3m8s1ms
+2019-04-30 18:21:16  [ main:187944 ] - [ INFO ]  times : 39, spend time is : 4s930ms
+2019-04-30 18:21:16  [ main:187944 ] - [ INFO ]  All spend time is : 3m12s931ms
+2019-04-30 18:21:21  [ main:192875 ] - [ INFO ]  times : 40, spend time is : 4s931ms
+2019-04-30 18:21:21  [ main:192875 ] - [ INFO ]  All spend time is : 3m17s862ms
+2019-04-30 18:21:26  [ main:197818 ] - [ INFO ]  times : 41, spend time is : 4s941ms
+2019-04-30 18:21:26  [ main:197818 ] - [ INFO ]  All spend time is : 3m22s804ms
+2019-04-30 18:21:31  [ main:202750 ] - [ INFO ]  times : 42, spend time is : 4s931ms
+2019-04-30 18:21:31  [ main:202750 ] - [ INFO ]  All spend time is : 3m27s737ms
+2019-04-30 18:21:36  [ main:207683 ] - [ INFO ]  times : 43, spend time is : 4s932ms
+2019-04-30 18:21:36  [ main:207683 ] - [ INFO ]  All spend time is : 3m32s670ms
+2019-04-30 18:21:41  [ main:212616 ] - [ INFO ]  times : 44, spend time is : 4s933ms
+2019-04-30 18:21:41  [ main:212616 ] - [ INFO ]  All spend time is : 3m37s603ms
+2019-04-30 18:21:45  [ main:217549 ] - [ INFO ]  times : 45, spend time is : 4s933ms
+2019-04-30 18:21:45  [ main:217550 ] - [ INFO ]  All spend time is : 3m42s536ms
+2019-04-30 18:21:50  [ main:222484 ] - [ INFO ]  times : 46, spend time is : 4s934ms
+2019-04-30 18:21:50  [ main:222484 ] - [ INFO ]  All spend time is : 3m47s471ms
+2019-04-30 18:21:55  [ main:227418 ] - [ INFO ]  times : 47, spend time is : 4s934ms
+2019-04-30 18:21:55  [ main:227418 ] - [ INFO ]  All spend time is : 3m52s405ms
+2019-04-30 18:22:00  [ main:232348 ] - [ INFO ]  times : 48, spend time is : 4s930ms
+2019-04-30 18:22:00  [ main:232348 ] - [ INFO ]  All spend time is : 3m57s335ms
+2019-04-30 18:22:05  [ main:237281 ] - [ INFO ]  times : 49, spend time is : 4s932ms
+2019-04-30 18:22:05  [ main:237281 ] - [ INFO ]  All spend time is : 4m2s268ms
+2019-04-30 18:22:10  [ main:242218 ] - [ INFO ]  times : 50, spend time is : 4s936ms
+2019-04-30 18:22:10  [ main:242218 ] - [ INFO ]  All spend time is : 4m7s205ms
+2019-04-30 18:22:15  [ main:247152 ] - [ INFO ]  times : 51, spend time is : 4s934ms
+2019-04-30 18:22:15  [ main:247152 ] - [ INFO ]  All spend time is : 4m12s139ms
+2019-04-30 18:22:20  [ main:252091 ] - [ INFO ]  times : 52, spend time is : 4s938ms
+2019-04-30 18:22:20  [ main:252091 ] - [ INFO ]  All spend time is : 4m17s78ms
+2019-04-30 18:22:25  [ main:257026 ] - [ INFO ]  times : 53, spend time is : 4s934ms
+2019-04-30 18:22:25  [ main:257026 ] - [ INFO ]  All spend time is : 4m22s13ms
+2019-04-30 18:22:30  [ main:261961 ] - [ INFO ]  times : 54, spend time is : 4s934ms
+2019-04-30 18:22:30  [ main:261961 ] - [ INFO ]  All spend time is : 4m26s948ms
+2019-04-30 18:22:35  [ main:266894 ] - [ INFO ]  times : 55, spend time is : 4s933ms
+2019-04-30 18:22:35  [ main:266894 ] - [ INFO ]  All spend time is : 4m31s881ms
+2019-04-30 18:22:40  [ main:271828 ] - [ INFO ]  times : 56, spend time is : 4s934ms
+2019-04-30 18:22:40  [ main:271828 ] - [ INFO ]  All spend time is : 4m36s815ms
+2019-04-30 18:22:45  [ main:276765 ] - [ INFO ]  times : 57, spend time is : 4s936ms
+2019-04-30 18:22:45  [ main:276765 ] - [ INFO ]  All spend time is : 4m41s752ms
+2019-04-30 18:22:50  [ main:281697 ] - [ INFO ]  times : 58, spend time is : 4s932ms
+2019-04-30 18:22:50  [ main:281697 ] - [ INFO ]  All spend time is : 4m46s684ms
+2019-04-30 18:22:55  [ main:286637 ] - [ INFO ]  times : 59, spend time is : 4s939ms
+2019-04-30 18:22:55  [ main:286637 ] - [ INFO ]  All spend time is : 4m51s624ms
+2019-04-30 18:22:59  [ main:291567 ] - [ INFO ]  times : 60, spend time is : 4s929ms
+2019-04-30 18:22:59  [ main:291568 ] - [ INFO ]  All spend time is : 4m56s553ms
+2019-04-30 18:23:05  [ main:296628 ] - [ INFO ]  times : 61, spend time is : 5s60ms
+2019-04-30 18:23:05  [ main:296628 ] - [ INFO ]  All spend time is : 5m1s615ms
+2019-04-30 18:23:09  [ main:301571 ] - [ INFO ]  times : 62, spend time is : 4s942ms
+2019-04-30 18:23:09  [ main:301571 ] - [ INFO ]  All spend time is : 5m6s558ms
+2019-04-30 18:26:41  [ main:0 ] - [ INFO ]  times : 1, spend time is : 6s967ms
+2019-04-30 18:26:41  [ main:4 ] - [ INFO ]  All spend time is : 0m6s967ms
+2019-04-30 18:26:48  [ main:6942 ] - [ INFO ]  times : 2, spend time is : 6s938ms
+2019-04-30 18:26:48  [ main:6942 ] - [ INFO ]  All spend time is : 0m13s909ms
+2019-04-30 18:26:55  [ main:13878 ] - [ INFO ]  times : 3, spend time is : 6s935ms
+2019-04-30 18:26:55  [ main:13878 ] - [ INFO ]  All spend time is : 0m20s845ms
+2019-04-30 18:27:02  [ main:20812 ] - [ INFO ]  times : 4, spend time is : 6s934ms
+2019-04-30 18:27:02  [ main:20812 ] - [ INFO ]  All spend time is : 0m27s779ms
+2019-04-30 18:27:09  [ main:27746 ] - [ INFO ]  times : 5, spend time is : 6s934ms
+2019-04-30 18:27:09  [ main:27747 ] - [ INFO ]  All spend time is : 0m34s713ms
+2019-04-30 18:27:16  [ main:34680 ] - [ INFO ]  times : 6, spend time is : 6s933ms
+2019-04-30 18:27:16  [ main:34680 ] - [ INFO ]  All spend time is : 0m41s647ms
+2019-04-30 18:27:23  [ main:41636 ] - [ INFO ]  times : 7, spend time is : 6s955ms
+2019-04-30 18:27:23  [ main:41636 ] - [ INFO ]  All spend time is : 0m48s603ms
+2019-04-30 18:27:30  [ main:48585 ] - [ INFO ]  times : 8, spend time is : 6s949ms
+2019-04-30 18:27:30  [ main:48585 ] - [ INFO ]  All spend time is : 0m55s552ms
+2019-04-30 18:27:36  [ main:55539 ] - [ INFO ]  times : 9, spend time is : 6s954ms
+2019-04-30 18:27:36  [ main:55539 ] - [ INFO ]  All spend time is : 1m2s506ms
+2019-04-30 18:27:43  [ main:62475 ] - [ INFO ]  times : 10, spend time is : 6s935ms
+2019-04-30 18:27:43  [ main:62475 ] - [ INFO ]  All spend time is : 1m9s442ms
+2019-04-30 18:27:50  [ main:69413 ] - [ INFO ]  times : 11, spend time is : 6s937ms
+2019-04-30 18:27:50  [ main:69413 ] - [ INFO ]  All spend time is : 1m16s380ms
+2019-04-30 18:27:57  [ main:76351 ] - [ INFO ]  times : 12, spend time is : 6s938ms
+2019-04-30 18:27:57  [ main:76351 ] - [ INFO ]  All spend time is : 1m23s318ms
+2019-04-30 18:28:04  [ main:83288 ] - [ INFO ]  times : 13, spend time is : 6s936ms
+2019-04-30 18:28:04  [ main:83288 ] - [ INFO ]  All spend time is : 1m30s255ms
+2019-04-30 18:28:11  [ main:90225 ] - [ INFO ]  times : 14, spend time is : 6s937ms
+2019-04-30 18:28:11  [ main:90225 ] - [ INFO ]  All spend time is : 1m37s192ms
+2019-04-30 18:28:18  [ main:97163 ] - [ INFO ]  times : 15, spend time is : 6s938ms
+2019-04-30 18:28:18  [ main:97163 ] - [ INFO ]  All spend time is : 1m44s130ms
+2019-04-30 18:28:25  [ main:104098 ] - [ INFO ]  times : 16, spend time is : 6s934ms
+2019-04-30 18:28:25  [ main:104098 ] - [ INFO ]  All spend time is : 1m51s65ms
+2019-04-30 18:28:32  [ main:111033 ] - [ INFO ]  times : 17, spend time is : 6s934ms
+2019-04-30 18:28:32  [ main:111033 ] - [ INFO ]  All spend time is : 1m58s0ms
+2019-04-30 18:28:39  [ main:117968 ] - [ INFO ]  times : 18, spend time is : 6s934ms
+2019-04-30 18:28:39  [ main:117968 ] - [ INFO ]  All spend time is : 2m4s935ms
+2019-04-30 18:28:46  [ main:124904 ] - [ INFO ]  times : 19, spend time is : 6s936ms
+2019-04-30 18:28:46  [ main:124904 ] - [ INFO ]  All spend time is : 2m11s871ms
+2019-04-30 18:28:53  [ main:131840 ] - [ INFO ]  times : 20, spend time is : 6s936ms
+2019-04-30 18:28:53  [ main:131840 ] - [ INFO ]  All spend time is : 2m18s807ms
+2019-04-30 18:29:00  [ main:138780 ] - [ INFO ]  times : 21, spend time is : 6s939ms
+2019-04-30 18:29:00  [ main:138780 ] - [ INFO ]  All spend time is : 2m25s747ms
+2019-04-30 18:29:07  [ main:145718 ] - [ INFO ]  times : 22, spend time is : 6s937ms
+2019-04-30 18:29:07  [ main:145718 ] - [ INFO ]  All spend time is : 2m32s685ms
+2019-04-30 18:29:14  [ main:152655 ] - [ INFO ]  times : 23, spend time is : 6s936ms
+2019-04-30 18:29:14  [ main:152655 ] - [ INFO ]  All spend time is : 2m39s622ms
+2019-04-30 18:29:21  [ main:159594 ] - [ INFO ]  times : 24, spend time is : 6s938ms
+2019-04-30 18:29:21  [ main:159594 ] - [ INFO ]  All spend time is : 2m46s561ms
+2019-04-30 18:29:27  [ main:166528 ] - [ INFO ]  times : 25, spend time is : 6s934ms
+2019-04-30 18:29:27  [ main:166528 ] - [ INFO ]  All spend time is : 2m53s495ms
+2019-04-30 18:29:34  [ main:173466 ] - [ INFO ]  times : 26, spend time is : 6s937ms
+2019-04-30 18:29:34  [ main:173466 ] - [ INFO ]  All spend time is : 3m0s433ms
+2019-04-30 18:29:41  [ main:180403 ] - [ INFO ]  times : 27, spend time is : 6s936ms
+2019-04-30 18:29:41  [ main:180404 ] - [ INFO ]  All spend time is : 3m7s370ms
+2019-04-30 18:29:48  [ main:187339 ] - [ INFO ]  times : 28, spend time is : 6s935ms
+2019-04-30 18:29:48  [ main:187339 ] - [ INFO ]  All spend time is : 3m14s306ms
+2019-04-30 18:29:55  [ main:194273 ] - [ INFO ]  times : 29, spend time is : 6s934ms
+2019-04-30 18:29:55  [ main:194273 ] - [ INFO ]  All spend time is : 3m21s240ms
+2019-04-30 18:30:02  [ main:201211 ] - [ INFO ]  times : 30, spend time is : 6s937ms
+2019-04-30 18:30:02  [ main:201211 ] - [ INFO ]  All spend time is : 3m28s178ms
+2019-04-30 18:30:09  [ main:208150 ] - [ INFO ]  times : 31, spend time is : 6s939ms
+2019-04-30 18:30:09  [ main:208150 ] - [ INFO ]  All spend time is : 3m35s117ms
+2019-04-30 18:30:16  [ main:215112 ] - [ INFO ]  times : 32, spend time is : 6s962ms
+2019-04-30 18:30:16  [ main:215112 ] - [ INFO ]  All spend time is : 3m42s79ms
+2019-04-30 18:30:23  [ main:222053 ] - [ INFO ]  times : 33, spend time is : 6s940ms
+2019-04-30 18:30:23  [ main:222053 ] - [ INFO ]  All spend time is : 3m49s20ms
+2019-04-30 18:30:30  [ main:228989 ] - [ INFO ]  times : 34, spend time is : 6s936ms
+2019-04-30 18:30:30  [ main:228989 ] - [ INFO ]  All spend time is : 3m55s956ms
+2019-04-30 18:30:37  [ main:235927 ] - [ INFO ]  times : 35, spend time is : 6s937ms
+2019-04-30 18:30:37  [ main:235927 ] - [ INFO ]  All spend time is : 4m2s894ms
+2019-04-30 18:30:44  [ main:242881 ] - [ INFO ]  times : 36, spend time is : 6s953ms
+2019-04-30 18:30:44  [ main:242881 ] - [ INFO ]  All spend time is : 4m9s848ms
+2019-04-30 18:30:51  [ main:249815 ] - [ INFO ]  times : 37, spend time is : 6s934ms
+2019-04-30 18:30:51  [ main:249815 ] - [ INFO ]  All spend time is : 4m16s782ms
+2019-04-30 18:30:58  [ main:256749 ] - [ INFO ]  times : 38, spend time is : 6s933ms
+2019-04-30 18:30:58  [ main:256749 ] - [ INFO ]  All spend time is : 4m23s716ms
+2019-04-30 18:31:05  [ main:263748 ] - [ INFO ]  times : 39, spend time is : 6s998ms
+2019-04-30 18:31:05  [ main:263748 ] - [ INFO ]  All spend time is : 4m30s715ms
+2019-04-30 18:31:12  [ main:270680 ] - [ INFO ]  times : 40, spend time is : 6s932ms
+2019-04-30 18:31:12  [ main:270680 ] - [ INFO ]  All spend time is : 4m37s647ms
+2019-04-30 18:31:19  [ main:277614 ] - [ INFO ]  times : 41, spend time is : 6s933ms
+2019-04-30 18:31:19  [ main:277614 ] - [ INFO ]  All spend time is : 4m44s581ms
+2019-04-30 18:31:25  [ main:284553 ] - [ INFO ]  times : 42, spend time is : 6s938ms
+2019-04-30 18:31:25  [ main:284553 ] - [ INFO ]  All spend time is : 4m51s520ms
+2019-04-30 18:31:32  [ main:291496 ] - [ INFO ]  times : 43, spend time is : 6s943ms
+2019-04-30 18:31:32  [ main:291496 ] - [ INFO ]  All spend time is : 4m58s463ms
+2019-04-30 18:31:39  [ main:298435 ] - [ INFO ]  times : 44, spend time is : 6s939ms
+2019-04-30 18:31:39  [ main:298435 ] - [ INFO ]  All spend time is : 5m5s402ms
+2019-04-30 18:31:46  [ main:305371 ] - [ INFO ]  times : 45, spend time is : 6s935ms
+2019-04-30 18:31:46  [ main:305371 ] - [ INFO ]  All spend time is : 5m12s338ms
+2019-04-30 18:31:53  [ main:312305 ] - [ INFO ]  times : 46, spend time is : 6s933ms
+2019-04-30 18:31:53  [ main:312305 ] - [ INFO ]  All spend time is : 5m19s272ms
+2019-04-30 18:32:00  [ main:319241 ] - [ INFO ]  times : 47, spend time is : 6s935ms
+2019-04-30 18:32:00  [ main:319241 ] - [ INFO ]  All spend time is : 5m26s208ms
+2019-04-30 18:32:07  [ main:326176 ] - [ INFO ]  times : 48, spend time is : 6s935ms
+2019-04-30 18:32:07  [ main:326176 ] - [ INFO ]  All spend time is : 5m33s143ms
+2019-04-30 18:32:14  [ main:333114 ] - [ INFO ]  times : 49, spend time is : 6s938ms
+2019-04-30 18:32:14  [ main:333114 ] - [ INFO ]  All spend time is : 5m40s81ms
+2019-04-30 18:32:21  [ main:340048 ] - [ INFO ]  times : 50, spend time is : 6s933ms
+2019-04-30 18:32:21  [ main:340048 ] - [ INFO ]  All spend time is : 5m47s15ms
+2019-04-30 18:32:28  [ main:346982 ] - [ INFO ]  times : 51, spend time is : 6s934ms
+2019-04-30 18:32:28  [ main:346982 ] - [ INFO ]  All spend time is : 5m53s949ms
+2019-04-30 18:32:35  [ main:353922 ] - [ INFO ]  times : 52, spend time is : 6s940ms
+2019-04-30 18:32:35  [ main:353922 ] - [ INFO ]  All spend time is : 6m0s889ms
+2019-04-30 18:32:42  [ main:360858 ] - [ INFO ]  times : 53, spend time is : 6s936ms
+2019-04-30 18:32:42  [ main:360858 ] - [ INFO ]  All spend time is : 6m7s825ms
+2019-04-30 18:32:49  [ main:367795 ] - [ INFO ]  times : 54, spend time is : 6s937ms
+2019-04-30 18:32:49  [ main:367795 ] - [ INFO ]  All spend time is : 6m14s762ms
+2019-04-30 18:32:56  [ main:374765 ] - [ INFO ]  times : 55, spend time is : 6s970ms
+2019-04-30 18:32:56  [ main:374765 ] - [ INFO ]  All spend time is : 6m21s732ms
+2019-04-30 18:33:03  [ main:381703 ] - [ INFO ]  times : 56, spend time is : 6s937ms
+2019-04-30 18:33:03  [ main:381703 ] - [ INFO ]  All spend time is : 6m28s670ms
+2019-04-30 18:33:10  [ main:388637 ] - [ INFO ]  times : 57, spend time is : 6s933ms
+2019-04-30 18:33:10  [ main:388637 ] - [ INFO ]  All spend time is : 6m35s604ms
+2019-04-30 18:33:17  [ main:395574 ] - [ INFO ]  times : 58, spend time is : 6s936ms
+2019-04-30 18:33:17  [ main:395574 ] - [ INFO ]  All spend time is : 6m42s541ms
+2019-04-30 18:33:23  [ main:402510 ] - [ INFO ]  times : 59, spend time is : 6s935ms
+2019-04-30 18:33:23  [ main:402510 ] - [ INFO ]  All spend time is : 6m49s477ms
+2019-04-30 18:33:30  [ main:409449 ] - [ INFO ]  times : 60, spend time is : 6s939ms
+2019-04-30 18:33:30  [ main:409450 ] - [ INFO ]  All spend time is : 6m56s416ms
+2019-04-30 18:33:37  [ main:416390 ] - [ INFO ]  times : 61, spend time is : 6s940ms
+2019-04-30 18:33:37  [ main:416390 ] - [ INFO ]  All spend time is : 7m3s357ms
+2019-04-30 18:33:44  [ main:423346 ] - [ INFO ]  times : 62, spend time is : 6s956ms
+2019-04-30 18:33:44  [ main:423346 ] - [ INFO ]  All spend time is : 7m10s313ms
+2019-04-30 18:33:51  [ main:430296 ] - [ INFO ]  times : 63, spend time is : 6s950ms
+2019-04-30 18:33:51  [ main:430296 ] - [ INFO ]  All spend time is : 7m17s263ms
+2019-04-30 18:33:58  [ main:437233 ] - [ INFO ]  times : 64, spend time is : 6s937ms
+2019-04-30 18:33:58  [ main:437234 ] - [ INFO ]  All spend time is : 7m24s200ms
+2019-04-30 18:34:05  [ main:444171 ] - [ INFO ]  times : 65, spend time is : 6s937ms
+2019-04-30 18:34:05  [ main:444171 ] - [ INFO ]  All spend time is : 7m31s138ms
+2019-04-30 18:34:12  [ main:451111 ] - [ INFO ]  times : 66, spend time is : 6s939ms
+2019-04-30 18:34:12  [ main:451111 ] - [ INFO ]  All spend time is : 7m38s78ms
+2019-04-30 18:34:19  [ main:458046 ] - [ INFO ]  times : 67, spend time is : 6s935ms
+2019-04-30 18:34:19  [ main:458046 ] - [ INFO ]  All spend time is : 7m45s13ms
+2019-04-30 18:34:26  [ main:464983 ] - [ INFO ]  times : 68, spend time is : 6s937ms
+2019-04-30 18:34:26  [ main:464983 ] - [ INFO ]  All spend time is : 7m51s950ms
+2019-04-30 18:34:33  [ main:471996 ] - [ INFO ]  times : 69, spend time is : 7s12ms
+2019-04-30 18:34:33  [ main:471996 ] - [ INFO ]  All spend time is : 7m58s963ms
+2019-04-30 18:34:40  [ main:478930 ] - [ INFO ]  times : 70, spend time is : 6s934ms
+2019-04-30 18:34:40  [ main:478931 ] - [ INFO ]  All spend time is : 8m5s897ms
+2019-04-30 18:34:47  [ main:485865 ] - [ INFO ]  times : 71, spend time is : 6s932ms
+2019-04-30 18:34:47  [ main:485865 ] - [ INFO ]  All spend time is : 8m12s831ms
+2019-04-30 18:34:54  [ main:492803 ] - [ INFO ]  times : 72, spend time is : 6s938ms
+2019-04-30 18:34:54  [ main:492803 ] - [ INFO ]  All spend time is : 8m19s770ms
+2019-04-30 18:35:01  [ main:499736 ] - [ INFO ]  times : 73, spend time is : 6s933ms
+2019-04-30 18:35:01  [ main:499736 ] - [ INFO ]  All spend time is : 8m26s703ms
+2019-04-30 18:35:08  [ main:506670 ] - [ INFO ]  times : 74, spend time is : 6s934ms
+2019-04-30 18:35:08  [ main:506670 ] - [ INFO ]  All spend time is : 8m33s637ms
+2019-04-30 18:35:15  [ main:513610 ] - [ INFO ]  times : 75, spend time is : 6s939ms
+2019-04-30 18:35:15  [ main:513610 ] - [ INFO ]  All spend time is : 8m40s577ms
+2019-04-30 18:35:21  [ main:520543 ] - [ INFO ]  times : 76, spend time is : 6s932ms
+2019-04-30 18:35:21  [ main:520543 ] - [ INFO ]  All spend time is : 8m47s510ms
+2019-04-30 18:35:28  [ main:527532 ] - [ INFO ]  times : 77, spend time is : 6s989ms
+2019-04-30 18:35:28  [ main:527532 ] - [ INFO ]  All spend time is : 8m54s499ms
+2019-04-30 18:35:35  [ main:534468 ] - [ INFO ]  times : 78, spend time is : 6s935ms
+2019-04-30 18:35:35  [ main:534468 ] - [ INFO ]  All spend time is : 9m1s435ms
+2019-04-30 18:35:42  [ main:541404 ] - [ INFO ]  times : 79, spend time is : 6s936ms
+2019-04-30 18:35:42  [ main:541404 ] - [ INFO ]  All spend time is : 9m8s371ms
+2019-04-30 18:35:49  [ main:548338 ] - [ INFO ]  times : 80, spend time is : 6s934ms
+2019-04-30 18:35:49  [ main:548338 ] - [ INFO ]  All spend time is : 9m15s305ms
+2019-04-30 18:35:56  [ main:555331 ] - [ INFO ]  times : 81, spend time is : 6s993ms
+2019-04-30 18:35:56  [ main:555331 ] - [ INFO ]  All spend time is : 9m22s298ms
+2019-04-30 18:36:03  [ main:562267 ] - [ INFO ]  times : 82, spend time is : 6s936ms
+2019-04-30 18:36:03  [ main:562267 ] - [ INFO ]  All spend time is : 9m29s234ms
+2019-04-30 18:36:10  [ main:569198 ] - [ INFO ]  times : 83, spend time is : 6s931ms
+2019-04-30 18:36:10  [ main:569198 ] - [ INFO ]  All spend time is : 9m36s165ms
+2019-04-30 18:36:17  [ main:576136 ] - [ INFO ]  times : 84, spend time is : 6s938ms
+2019-04-30 18:36:17  [ main:576136 ] - [ INFO ]  All spend time is : 9m43s103ms
+2019-04-30 18:36:24  [ main:583077 ] - [ INFO ]  times : 85, spend time is : 6s941ms
+2019-04-30 18:36:24  [ main:583077 ] - [ INFO ]  All spend time is : 9m50s44ms
+2019-04-30 18:36:31  [ main:590010 ] - [ INFO ]  times : 86, spend time is : 6s933ms
+2019-04-30 18:36:31  [ main:590010 ] - [ INFO ]  All spend time is : 9m56s977ms
+2019-04-30 18:36:38  [ main:596954 ] - [ INFO ]  times : 87, spend time is : 6s944ms
+2019-04-30 18:36:38  [ main:596954 ] - [ INFO ]  All spend time is : 10m3s921ms
+2019-04-30 18:36:45  [ main:603889 ] - [ INFO ]  times : 88, spend time is : 6s935ms
+2019-04-30 18:36:45  [ main:603889 ] - [ INFO ]  All spend time is : 10m10s856ms
+2019-04-30 18:36:52  [ main:610834 ] - [ INFO ]  times : 89, spend time is : 6s944ms
+2019-04-30 18:36:52  [ main:610834 ] - [ INFO ]  All spend time is : 10m17s801ms
+2019-04-30 18:36:59  [ main:617774 ] - [ INFO ]  times : 90, spend time is : 6s940ms
+2019-04-30 18:36:59  [ main:617774 ] - [ INFO ]  All spend time is : 10m24s741ms
+2019-04-30 18:37:06  [ main:624709 ] - [ INFO ]  times : 91, spend time is : 6s935ms
+2019-04-30 18:37:06  [ main:624709 ] - [ INFO ]  All spend time is : 10m31s676ms
+2019-04-30 18:37:13  [ main:631643 ] - [ INFO ]  times : 92, spend time is : 6s934ms
+2019-04-30 18:37:13  [ main:631643 ] - [ INFO ]  All spend time is : 10m38s610ms
+2019-04-30 18:37:20  [ main:638578 ] - [ INFO ]  times : 93, spend time is : 6s935ms
+2019-04-30 18:37:20  [ main:638578 ] - [ INFO ]  All spend time is : 10m45s545ms
+2019-04-30 18:37:26  [ main:645513 ] - [ INFO ]  times : 94, spend time is : 6s935ms
+2019-04-30 18:37:26  [ main:645513 ] - [ INFO ]  All spend time is : 10m52s480ms
+2019-04-30 18:37:33  [ main:652453 ] - [ INFO ]  times : 95, spend time is : 6s939ms
+2019-04-30 18:37:33  [ main:652453 ] - [ INFO ]  All spend time is : 10m59s420ms
+2019-04-30 18:37:40  [ main:659388 ] - [ INFO ]  times : 96, spend time is : 6s935ms
+2019-04-30 18:37:40  [ main:659389 ] - [ INFO ]  All spend time is : 11m6s355ms
+2019-04-30 18:37:47  [ main:666327 ] - [ INFO ]  times : 97, spend time is : 6s938ms
+2019-04-30 18:37:47  [ main:666327 ] - [ INFO ]  All spend time is : 11m13s294ms
+2019-04-30 18:37:54  [ main:673263 ] - [ INFO ]  times : 98, spend time is : 6s936ms
+2019-04-30 18:37:54  [ main:673263 ] - [ INFO ]  All spend time is : 11m20s230ms
+2019-04-30 18:38:01  [ main:680197 ] - [ INFO ]  times : 99, spend time is : 6s934ms
+2019-04-30 18:38:01  [ main:680197 ] - [ INFO ]  All spend time is : 11m27s164ms
+2019-04-30 18:38:08  [ main:687132 ] - [ INFO ]  times : 100, spend time is : 6s935ms
+2019-04-30 18:38:08  [ main:687132 ] - [ INFO ]  All spend time is : 11m34s99ms
+2019-04-30 18:38:15  [ main:694072 ] - [ INFO ]  times : 101, spend time is : 6s940ms
+2019-04-30 18:38:15  [ main:694072 ] - [ INFO ]  All spend time is : 11m41s39ms
+2019-04-30 18:38:22  [ main:701006 ] - [ INFO ]  times : 102, spend time is : 6s934ms
+2019-04-30 18:38:22  [ main:701006 ] - [ INFO ]  All spend time is : 11m47s973ms
+2019-04-30 18:38:29  [ main:707940 ] - [ INFO ]  times : 103, spend time is : 6s934ms
+2019-04-30 18:38:29  [ main:707940 ] - [ INFO ]  All spend time is : 11m54s907ms
+2019-04-30 18:38:36  [ main:714875 ] - [ INFO ]  times : 104, spend time is : 6s935ms
+2019-04-30 18:38:36  [ main:714875 ] - [ INFO ]  All spend time is : 12m1s842ms
+2019-04-30 18:38:43  [ main:721811 ] - [ INFO ]  times : 105, spend time is : 6s936ms
+2019-04-30 18:38:43  [ main:721811 ] - [ INFO ]  All spend time is : 12m8s778ms
+2019-04-30 18:38:50  [ main:728749 ] - [ INFO ]  times : 106, spend time is : 6s937ms
+2019-04-30 18:38:50  [ main:728749 ] - [ INFO ]  All spend time is : 12m15s716ms
+2019-04-30 18:38:57  [ main:735684 ] - [ INFO ]  times : 107, spend time is : 6s935ms
+2019-04-30 18:38:57  [ main:735684 ] - [ INFO ]  All spend time is : 12m22s651ms
+2019-04-30 18:39:04  [ main:742620 ] - [ INFO ]  times : 108, spend time is : 6s936ms
+2019-04-30 18:39:04  [ main:742620 ] - [ INFO ]  All spend time is : 12m29s587ms
+2019-04-30 18:39:11  [ main:749557 ] - [ INFO ]  times : 109, spend time is : 6s937ms
+2019-04-30 18:39:11  [ main:749557 ] - [ INFO ]  All spend time is : 12m36s524ms
+2019-04-30 18:39:17  [ main:756492 ] - [ INFO ]  times : 110, spend time is : 6s935ms
+2019-04-30 18:39:17  [ main:756492 ] - [ INFO ]  All spend time is : 12m43s459ms
+2019-04-30 18:39:24  [ main:763433 ] - [ INFO ]  times : 111, spend time is : 6s940ms
+2019-04-30 18:39:24  [ main:763434 ] - [ INFO ]  All spend time is : 12m50s400ms
+2019-04-30 18:39:31  [ main:770372 ] - [ INFO ]  times : 112, spend time is : 6s938ms
+2019-04-30 18:39:31  [ main:770372 ] - [ INFO ]  All spend time is : 12m57s339ms
+2019-04-30 18:39:38  [ main:777306 ] - [ INFO ]  times : 113, spend time is : 6s934ms
+2019-04-30 18:39:38  [ main:777306 ] - [ INFO ]  All spend time is : 13m4s273ms
+2019-04-30 18:39:45  [ main:784278 ] - [ INFO ]  times : 114, spend time is : 6s972ms
+2019-04-30 18:39:45  [ main:784278 ] - [ INFO ]  All spend time is : 13m11s245ms
+2019-04-30 18:39:52  [ main:791213 ] - [ INFO ]  times : 115, spend time is : 6s934ms
+2019-04-30 18:39:52  [ main:791213 ] - [ INFO ]  All spend time is : 13m18s180ms
+2019-04-30 18:39:59  [ main:798171 ] - [ INFO ]  times : 116, spend time is : 6s958ms
+2019-04-30 18:39:59  [ main:798171 ] - [ INFO ]  All spend time is : 13m25s138ms
+2019-04-30 18:40:06  [ main:805110 ] - [ INFO ]  times : 117, spend time is : 6s939ms
+2019-04-30 18:40:06  [ main:805110 ] - [ INFO ]  All spend time is : 13m32s77ms
+2019-04-30 18:40:13  [ main:812050 ] - [ INFO ]  times : 118, spend time is : 6s940ms
+2019-04-30 18:40:13  [ main:812050 ] - [ INFO ]  All spend time is : 13m39s17ms
+2019-04-30 19:04:29  [ main:0 ] - [ INFO ]  times : 1, spend time is : 7s29ms
+2019-04-30 19:04:29  [ main:4 ] - [ INFO ]  All spend time is : 0m7s29ms
+2019-04-30 19:04:36  [ main:6937 ] - [ INFO ]  times : 2, spend time is : 6s933ms
+2019-04-30 19:04:36  [ main:6937 ] - [ INFO ]  All spend time is : 0m13s966ms
+2019-04-30 19:04:43  [ main:13876 ] - [ INFO ]  times : 3, spend time is : 6s938ms
+2019-04-30 19:04:43  [ main:13876 ] - [ INFO ]  All spend time is : 0m20s905ms
+2019-04-30 19:04:50  [ main:20809 ] - [ INFO ]  times : 4, spend time is : 6s933ms
+2019-04-30 19:04:50  [ main:20809 ] - [ INFO ]  All spend time is : 0m27s838ms
+2019-04-30 19:04:57  [ main:27743 ] - [ INFO ]  times : 5, spend time is : 6s934ms
+2019-04-30 19:04:57  [ main:27743 ] - [ INFO ]  All spend time is : 0m34s772ms
+2019-04-30 19:05:04  [ main:34741 ] - [ INFO ]  times : 6, spend time is : 6s998ms
+2019-04-30 19:05:04  [ main:34741 ] - [ INFO ]  All spend time is : 0m41s770ms
+2019-04-30 19:05:11  [ main:41672 ] - [ INFO ]  times : 7, spend time is : 6s931ms
+2019-04-30 19:05:11  [ main:41672 ] - [ INFO ]  All spend time is : 0m48s701ms
+2019-04-30 19:05:18  [ main:48608 ] - [ INFO ]  times : 8, spend time is : 6s935ms
+2019-04-30 19:05:18  [ main:48608 ] - [ INFO ]  All spend time is : 0m55s637ms
+2019-04-30 19:05:25  [ main:55551 ] - [ INFO ]  times : 9, spend time is : 6s942ms
+2019-04-30 19:05:25  [ main:55551 ] - [ INFO ]  All spend time is : 1m2s580ms
+2019-04-30 19:05:32  [ main:62482 ] - [ INFO ]  times : 10, spend time is : 6s930ms
+2019-04-30 19:05:32  [ main:62482 ] - [ INFO ]  All spend time is : 1m9s511ms
+2019-04-30 19:05:39  [ main:69412 ] - [ INFO ]  times : 11, spend time is : 6s930ms
+2019-04-30 19:05:39  [ main:69413 ] - [ INFO ]  All spend time is : 1m16s441ms
+2019-04-30 19:06:10  [ main:0 ] - [ INFO ]  times : 1, spend time is : 6s993ms
+2019-04-30 19:06:10  [ main:4 ] - [ INFO ]  All spend time is : 0m6s993ms
+2019-04-30 19:06:17  [ main:6941 ] - [ INFO ]  times : 2, spend time is : 6s937ms
+2019-04-30 19:06:17  [ main:6941 ] - [ INFO ]  All spend time is : 0m13s934ms
+2019-04-30 19:06:24  [ main:13894 ] - [ INFO ]  times : 3, spend time is : 6s952ms
+2019-04-30 19:06:24  [ main:13894 ] - [ INFO ]  All spend time is : 0m20s887ms
+2019-04-30 19:06:31  [ main:20876 ] - [ INFO ]  times : 4, spend time is : 6s982ms
+2019-04-30 19:06:31  [ main:20876 ] - [ INFO ]  All spend time is : 0m27s869ms
+2019-04-30 19:06:38  [ main:27812 ] - [ INFO ]  times : 5, spend time is : 6s935ms
+2019-04-30 19:06:38  [ main:27812 ] - [ INFO ]  All spend time is : 0m34s805ms
+2019-04-30 19:06:44  [ main:34745 ] - [ INFO ]  times : 6, spend time is : 6s933ms
+2019-04-30 19:06:44  [ main:34745 ] - [ INFO ]  All spend time is : 0m41s738ms
+2019-04-30 19:06:51  [ main:41677 ] - [ INFO ]  times : 7, spend time is : 6s932ms
+2019-04-30 19:06:51  [ main:41677 ] - [ INFO ]  All spend time is : 0m48s670ms
+2019-04-30 19:06:58  [ main:48608 ] - [ INFO ]  times : 8, spend time is : 6s930ms
+2019-04-30 19:06:58  [ main:48608 ] - [ INFO ]  All spend time is : 0m55s601ms
+2019-04-30 19:07:05  [ main:55540 ] - [ INFO ]  times : 9, spend time is : 6s931ms
+2019-04-30 19:07:05  [ main:55540 ] - [ INFO ]  All spend time is : 1m2s533ms
+2019-04-30 19:07:12  [ main:62476 ] - [ INFO ]  times : 10, spend time is : 6s936ms
+2019-04-30 19:07:12  [ main:62476 ] - [ INFO ]  All spend time is : 1m9s469ms
+2019-04-30 19:07:19  [ main:69410 ] - [ INFO ]  times : 11, spend time is : 6s933ms
+2019-04-30 19:07:19  [ main:69410 ] - [ INFO ]  All spend time is : 1m16s403ms
+2019-04-30 19:07:26  [ main:76347 ] - [ INFO ]  times : 12, spend time is : 6s937ms
+2019-04-30 19:07:26  [ main:76347 ] - [ INFO ]  All spend time is : 1m23s340ms
+2019-04-30 19:07:33  [ main:83284 ] - [ INFO ]  times : 13, spend time is : 6s937ms
+2019-04-30 19:07:33  [ main:83284 ] - [ INFO ]  All spend time is : 1m30s277ms
+2019-04-30 19:07:40  [ main:90218 ] - [ INFO ]  times : 14, spend time is : 6s934ms
+2019-04-30 19:07:40  [ main:90219 ] - [ INFO ]  All spend time is : 1m37s211ms
+2019-04-30 19:08:49  [ main:0 ] - [ INFO ]  times : 1, spend time is : 5s565ms
+2019-04-30 19:08:49  [ main:5 ] - [ INFO ]  All spend time is : 0m5s565ms
+2019-04-30 19:08:54  [ main:5538 ] - [ INFO ]  times : 2, spend time is : 5s533ms
+2019-04-30 19:08:54  [ main:5538 ] - [ INFO ]  All spend time is : 0m11s103ms
+2019-04-30 19:09:00  [ main:11068 ] - [ INFO ]  times : 3, spend time is : 5s530ms
+2019-04-30 19:09:00  [ main:11068 ] - [ INFO ]  All spend time is : 0m16s633ms
+2019-04-30 19:09:05  [ main:16599 ] - [ INFO ]  times : 4, spend time is : 5s530ms
+2019-04-30 19:09:05  [ main:16599 ] - [ INFO ]  All spend time is : 0m22s164ms
+2019-04-30 19:09:11  [ main:22132 ] - [ INFO ]  times : 5, spend time is : 5s533ms
+2019-04-30 19:09:11  [ main:22132 ] - [ INFO ]  All spend time is : 0m27s697ms
+2019-04-30 19:09:17  [ main:27663 ] - [ INFO ]  times : 6, spend time is : 5s530ms
+2019-04-30 19:09:17  [ main:27663 ] - [ INFO ]  All spend time is : 0m33s228ms
+2019-04-30 19:09:22  [ main:33196 ] - [ INFO ]  times : 7, spend time is : 5s532ms
+2019-04-30 19:09:22  [ main:33196 ] - [ INFO ]  All spend time is : 0m38s761ms
+2019-04-30 19:09:28  [ main:38731 ] - [ INFO ]  times : 8, spend time is : 5s535ms
+2019-04-30 19:09:28  [ main:38731 ] - [ INFO ]  All spend time is : 0m44s296ms
+2019-04-30 19:09:33  [ main:44268 ] - [ INFO ]  times : 9, spend time is : 5s537ms
+2019-04-30 19:09:33  [ main:44268 ] - [ INFO ]  All spend time is : 0m49s833ms
+2019-04-30 19:09:39  [ main:49802 ] - [ INFO ]  times : 10, spend time is : 5s533ms
+2019-04-30 19:09:39  [ main:49802 ] - [ INFO ]  All spend time is : 0m55s367ms
+2019-04-30 19:09:44  [ main:55334 ] - [ INFO ]  times : 11, spend time is : 5s531ms
+2019-04-30 19:09:44  [ main:55334 ] - [ INFO ]  All spend time is : 1m0s899ms
+2019-04-30 19:09:50  [ main:60897 ] - [ INFO ]  times : 12, spend time is : 5s562ms
+2019-04-30 19:09:50  [ main:60897 ] - [ INFO ]  All spend time is : 1m6s462ms
+2019-04-30 19:09:55  [ main:66430 ] - [ INFO ]  times : 13, spend time is : 5s532ms
+2019-04-30 19:09:55  [ main:66430 ] - [ INFO ]  All spend time is : 1m11s995ms
+2019-04-30 19:10:01  [ main:71962 ] - [ INFO ]  times : 14, spend time is : 5s531ms
+2019-04-30 19:10:01  [ main:71962 ] - [ INFO ]  All spend time is : 1m17s527ms
+2019-04-30 19:10:06  [ main:77499 ] - [ INFO ]  times : 15, spend time is : 5s537ms
+2019-04-30 19:10:06  [ main:77499 ] - [ INFO ]  All spend time is : 1m23s64ms
+2019-04-30 19:10:12  [ main:83032 ] - [ INFO ]  times : 16, spend time is : 5s533ms
+2019-04-30 19:10:12  [ main:83032 ] - [ INFO ]  All spend time is : 1m28s597ms
+2019-04-30 19:10:17  [ main:88568 ] - [ INFO ]  times : 17, spend time is : 5s535ms
+2019-04-30 19:10:17  [ main:88568 ] - [ INFO ]  All spend time is : 1m34s133ms
+2019-04-30 19:10:23  [ main:94104 ] - [ INFO ]  times : 18, spend time is : 5s535ms
+2019-04-30 19:10:23  [ main:94104 ] - [ INFO ]  All spend time is : 1m39s669ms
+2019-04-30 19:10:28  [ main:99638 ] - [ INFO ]  times : 19, spend time is : 5s533ms
+2019-04-30 19:10:28  [ main:99638 ] - [ INFO ]  All spend time is : 1m45s203ms
+2019-04-30 19:10:34  [ main:105171 ] - [ INFO ]  times : 20, spend time is : 5s532ms
+2019-04-30 19:10:34  [ main:105171 ] - [ INFO ]  All spend time is : 1m50s736ms
+2019-04-30 19:10:40  [ main:110716 ] - [ INFO ]  times : 21, spend time is : 5s544ms
+2019-04-30 19:10:40  [ main:110717 ] - [ INFO ]  All spend time is : 1m56s281ms
+2019-04-30 19:10:45  [ main:116254 ] - [ INFO ]  times : 22, spend time is : 5s537ms
+2019-04-30 19:10:45  [ main:116254 ] - [ INFO ]  All spend time is : 2m1s819ms
+2019-04-30 19:10:51  [ main:121787 ] - [ INFO ]  times : 23, spend time is : 5s533ms
+2019-04-30 19:10:51  [ main:121787 ] - [ INFO ]  All spend time is : 2m7s352ms
+2019-04-30 19:10:56  [ main:127322 ] - [ INFO ]  times : 24, spend time is : 5s534ms
+2019-04-30 19:10:56  [ main:127322 ] - [ INFO ]  All spend time is : 2m12s887ms
+2019-04-30 19:11:02  [ main:132858 ] - [ INFO ]  times : 25, spend time is : 5s536ms
+2019-04-30 19:11:02  [ main:132858 ] - [ INFO ]  All spend time is : 2m18s423ms
+2019-04-30 19:11:07  [ main:138390 ] - [ INFO ]  times : 26, spend time is : 5s531ms
+2019-04-30 19:11:07  [ main:138390 ] - [ INFO ]  All spend time is : 2m23s955ms
+2019-04-30 19:11:13  [ main:143925 ] - [ INFO ]  times : 27, spend time is : 5s534ms
+2019-04-30 19:11:13  [ main:143925 ] - [ INFO ]  All spend time is : 2m29s490ms
+2019-04-30 19:11:18  [ main:149455 ] - [ INFO ]  times : 28, spend time is : 5s530ms
+2019-04-30 19:11:18  [ main:149455 ] - [ INFO ]  All spend time is : 2m35s20ms
+2019-04-30 19:11:24  [ main:154988 ] - [ INFO ]  times : 29, spend time is : 5s532ms
+2019-04-30 19:11:24  [ main:154988 ] - [ INFO ]  All spend time is : 2m40s553ms
+2019-04-30 19:11:29  [ main:160522 ] - [ INFO ]  times : 30, spend time is : 5s534ms
+2019-04-30 19:11:29  [ main:160522 ] - [ INFO ]  All spend time is : 2m46s87ms
+2019-04-30 19:11:35  [ main:166060 ] - [ INFO ]  times : 31, spend time is : 5s538ms
+2019-04-30 19:11:35  [ main:166060 ] - [ INFO ]  All spend time is : 2m51s625ms
+2019-04-30 19:11:52  [ main:0 ] - [ INFO ]  times : 1, spend time is : 6s133ms
+2019-04-30 19:11:52  [ main:5 ] - [ INFO ]  All spend time is : 0m6s133ms
+2019-04-30 19:11:58  [ main:6136 ] - [ INFO ]  times : 2, spend time is : 6s131ms
+2019-04-30 19:11:58  [ main:6136 ] - [ INFO ]  All spend time is : 0m12s269ms
+2019-04-30 19:12:04  [ main:12199 ] - [ INFO ]  times : 3, spend time is : 6s63ms
+2019-04-30 19:12:04  [ main:12199 ] - [ INFO ]  All spend time is : 0m18s332ms
+2019-04-30 19:12:10  [ main:18262 ] - [ INFO ]  times : 4, spend time is : 6s62ms
+2019-04-30 19:12:10  [ main:18262 ] - [ INFO ]  All spend time is : 0m24s395ms
+2019-04-30 19:12:16  [ main:24326 ] - [ INFO ]  times : 5, spend time is : 6s64ms
+2019-04-30 19:12:16  [ main:24327 ] - [ INFO ]  All spend time is : 0m30s459ms
+2019-04-30 19:12:22  [ main:30394 ] - [ INFO ]  times : 6, spend time is : 6s67ms
+2019-04-30 19:12:22  [ main:30395 ] - [ INFO ]  All spend time is : 0m36s527ms
+2019-04-30 19:12:28  [ main:36456 ] - [ INFO ]  times : 7, spend time is : 6s61ms
+2019-04-30 19:12:28  [ main:36456 ] - [ INFO ]  All spend time is : 0m42s589ms
+2019-04-30 19:12:34  [ main:42518 ] - [ INFO ]  times : 8, spend time is : 6s61ms
+2019-04-30 19:12:34  [ main:42518 ] - [ INFO ]  All spend time is : 0m48s651ms
+2019-04-30 19:12:41  [ main:48772 ] - [ INFO ]  times : 9, spend time is : 6s253ms
+2019-04-30 19:12:41  [ main:48772 ] - [ INFO ]  All spend time is : 0m54s905ms
+2019-04-30 19:12:47  [ main:54838 ] - [ INFO ]  times : 10, spend time is : 6s66ms
+2019-04-30 19:12:47  [ main:54838 ] - [ INFO ]  All spend time is : 1m0s971ms
+2019-04-30 19:12:53  [ main:60899 ] - [ INFO ]  times : 11, spend time is : 6s61ms
+2019-04-30 19:12:53  [ main:60900 ] - [ INFO ]  All spend time is : 1m7s32ms
+2019-04-30 19:12:59  [ main:66961 ] - [ INFO ]  times : 12, spend time is : 6s61ms
+2019-04-30 19:12:59  [ main:66961 ] - [ INFO ]  All spend time is : 1m13s94ms
+2019-04-30 19:13:05  [ main:73033 ] - [ INFO ]  times : 13, spend time is : 6s71ms
+2019-04-30 19:13:05  [ main:73033 ] - [ INFO ]  All spend time is : 1m19s166ms
+2019-04-30 19:13:11  [ main:79096 ] - [ INFO ]  times : 14, spend time is : 6s62ms
+2019-04-30 19:13:11  [ main:79096 ] - [ INFO ]  All spend time is : 1m25s229ms
+2019-04-30 19:13:17  [ main:85160 ] - [ INFO ]  times : 15, spend time is : 6s64ms
+2019-04-30 19:13:17  [ main:85161 ] - [ INFO ]  All spend time is : 1m31s293ms
+2019-04-30 19:13:23  [ main:91224 ] - [ INFO ]  times : 16, spend time is : 6s63ms
+2019-04-30 19:13:23  [ main:91224 ] - [ INFO ]  All spend time is : 1m37s357ms
